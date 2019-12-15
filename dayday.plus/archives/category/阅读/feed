@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>阅读 &#8211; 夏和帆的博客</title>
+	<atom:link href="https://dayday.plus/archives/category/%e9%98%85%e8%af%bb/feed" rel="self" type="application/rss+xml" />
+	<link>https://dayday.plus</link>
+	<description>KAAHO&#039;S BLOG / DAYDAY.PLUS / 微博@夏和帆</description>
+	<lastBuildDate>Tue, 10 Dec 2019 22:22:26 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.12</generator>
+
+<image>
+	<url>http://dayday.plus/wp-content/uploads/2018/09/hp-150x150.jpg</url>
+	<title>阅读 &#8211; 夏和帆的博客</title>
+	<link>https://dayday.plus</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>选择焦虑</title>
+		<link>https://dayday.plus/archives/859</link>
+		<comments>https://dayday.plus/archives/859#respond</comments>
+		<pubDate>Tue, 10 Dec 2019 22:17:35 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[阅读]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=859</guid>
+		<description><![CDATA[In most financial settings, risk is a bad thing; you have to be paid to bear it. Investors in risky (high-beta) stocks d [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="size-medium aligncenter" src="https://i.loli.net/2019/12/11/zC7da4wb9Wqe1RI.png" width="337" height="399" /></p>
+<blockquote><p>In most financial settings, risk is a bad thing; you have to be paid to bear it. Investors in risky (high-beta) stocks demand higher expected rates of return. Highrisk capital investment projects have correspondingly high costs of capital andhave to beat higher hurdle rates to achieve positive NPV.</p>
+<p>For options it’s the other way around. As we have just seen, options written on volatile assets are worth more than options written on safe assets. If you can understand and remember that one fact about options, you’ve come a long way.</p>
+<p>&nbsp;</p></blockquote>
+<p><span id="more-859"></span></p>
+<p style="text-indent: 2em;">在苏黎世理工，选课非常自由。但究竟选择什么课，着实是一件令人头痛的事情——有趣的课程太多、自己了解的又太少。纠结再三，这学期我一共选了五门专业课。</p>
+<ul>
+<li>VLSI 1: From Architecture to VLSI and FPGAs</li>
+<li>Neuromorphic Engineering 1</li>
+<li>Introduction to Neuroinformatics</li>
+<li>Image Analysis and Computer Vision</li>
+<li>Bioelectronics and Biosensors</li>
+</ul>
+<p style="text-indent: 2em;">我是这样思考我的选课方案的：我一方面不愿意抛弃本科的电路背景，因此选择了VLSI和Neuromorphic Engineering；又希望尽可能的了解与医学和神经科学交叉，因此选择了Bioelectronics和Neuroinformatics的课程；又忍不住选了一门Computer Vision了解一下时下最火的领域。</p>
+<p style="text-indent: 2em;">我对这个最终的选课方案也并非一直是满意的。学期前半段，我觉得自己的选课太偏实践，于是后悔为什么没有多选几门数学和Machine Learning的理论课程。学期后半段，又觉得自己的电路课程选的又太少，后悔自己应该更专一于自己最擅长的领域而不是太过于交叉。</p>
+<p style="text-indent: 2em;">对于未来研究方向选择的迷茫，从我的选课方案上就可见一斑。</p>
+<p style="text-indent: 2em;">但是最近，我的兴趣似乎又有了变化。Bioelectronics课程的后半部分介绍了System Neuroscience的基本原理和模型、Neuroinformatics课程上介绍了Theoretical Neuroscience中的经典计算模型和神经网络——都是学术界热门的前沿研究领域，按教授的话说，“Neuroscience is a much less known field, many mysteries to uncover”。不得不说，我被“神经科学”这门学科深深地吸引了，相比电路——神经科学似乎才是真正令我激动、引起我探索欲望的研究方向。</p>
+<p style="text-indent: 2em;">我该不该选择神经科学？</p>
+<p style="text-indent: 2em;">如果我坚持学习电路本行，下学期我的课程选择应该是VLSI 2, System-on-chip和Machine Learning。如果我选择神经科学领域，下学期的课程应该是Neural System, Translational Neuralmodelling, Neuromorphic Engineering 2.</p>
+<p style="text-indent: 2em;">选择神经科学无疑是风险更大的方案。一方面，从最基本的就业市场来说，依然前景不明；另一方面，神经科学对我来说也是跨度更大的领域，对于希望继续攻读PhD学位的我来说，会让我接下来的申请更加困难……</p>
+<p style="text-indent: 2em;">但是，如果未来真的要成为一名教授，那么现在选择的方向有可能是会做一辈子的事业，兴趣难道不应该更重要吗？</p>
+<p style="text-indent: 2em;">所幸，我还有继续斟酌的时间——毕竟下学期开学才会再一次选课。</p>
+<p style="text-indent: 2em;">最近，在课本“Corporate Finance”里面看到了开篇那张有趣的图。对我来说，经过本科毕设和这学期的电路学习，我已经比较有自信找到一份不错的电路工作了。这个时候套用期权模型，似乎我可以选用“No-Lose” strategy。这时候，我是不是应该选择风险最大的投资来获得更多可能的收益呢？</p>
+]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/859/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>大二的小事</title>
+		<link>https://dayday.plus/archives/530</link>
+		<comments>https://dayday.plus/archives/530#comments</comments>
+		<pubDate>Sun, 12 May 2019 07:29:48 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[阅读]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=530</guid>
+		<description><![CDATA[大二某天。 也许大多数同学还在温暖的宿舍睡着懒觉，我却摸着黑早早起来，匆忙地洗漱、吃早餐，然后顶着早冬的寒风奔向东一楼。在路上，我的心里不断念叨着“以后要更仔细一些、要更仔细一些……” 我要赶去的这节课，全班只有我一个人需要上。 几天前的《 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-indent: 2em;">大二某天。</p>
+<p style="text-indent: 2em;">也许大多数同学还在温暖的宿舍睡着懒觉，我却摸着黑早早起来，匆忙地洗漱、吃早餐，然后顶着早冬的寒风奔向东一楼。在路上，我的心里不断念叨着“以后要更仔细一些、要更仔细一些……”<br />
+<span id="more-530"></span></p>
+<p style="text-indent: 2em;">我要赶去的这节课，全班只有我一个人需要上。</p>
+<p style="text-indent: 2em;">几天前的《电路实验》课上，我漏记了一个关键数据，导致我没有办法在课后完成实验报告——我不得不赶在另一个班的上课时间去，重新完成实验。</p>
+<p style="text-indent: 2em;">如果只是因为自己粗心，我不可能在两年后还清晰的记得那个早晨。《电路实验》课上学生需要独立完成实验、记录实验数据，然后给老师过目实验数据、确保无误后才能离开。而那天，我成了“漏网之鱼”——老师并没有发现我遗漏了关键数据，就在我的实验数据上签了“通过”。</p>
+<p style="text-indent: 2em;">当我意识到错误的时候已经晚了。因为每个人的实验器材都不同，我没法借鉴同学的数据；我急匆匆赶回实验室，老师已经离开、大门已经上锁；我努力回忆那个数据的实验值，但就是想不起来……</p>
+<p style="text-indent: 2em;">没了这个数据，我的报告第一步都迈不出去。我有些委屈——我仔细预习了实验，我最快达到了指标，但现在因为一个连老师都没有发现的失误，便功亏一篑。</p>
+<p style="text-indent: 2em;">其实我已经尽可能要求自己做到细致了，但看来还是不够。</p>
+<p style="text-indent: 2em;">交大从2015级开始实行专业大类招生，很多和我大一时的伙伴，在大二分流的时候选择了和我不同的专业。所以大一常常发生的事情——相互借鉴作业、探讨问题等等——在大二少了许多。而新组成的班级，缺了大一一年的磨合，又受制于更繁重的课业压力，显得更加松散。</p>
+<p style="text-indent: 2em;">于是，我不得不变得更加独立。因为宿舍里只有我一个人是微电子专业，我要在晚上要少熬夜、自己订好闹钟，这样才能避免第二天睡过头；因为和新班级的同学不熟，我要在课上更加认真地听讲，这样才能快速独立的完成作业；因为不能和曾经的好伙伴约图书馆，我要自己坚持去自习室自习……一段时间下来，我认为自己已经能够较好的打理自己了。但是看来，这样依然不够。</p>
+<p style="text-indent: 2em;">风尘仆仆地来到实验室，我独自开始了实验。有了前一次的经验，我很快完成了任务。同上次实验一样，老师过目数据后签了“通过”；同上次不同的是，我再次确认了数据和操作有没有遗漏和错误。“毕竟老师那边通过了可不一定是真的通过了呢”，我想。</p>
+<p style="text-indent: 2em;">是啊，早早就听人说“书本和老师也会出错”，但不是真正亲身经历，真的会容易被人忽略。“独立不仅仅行为上的独立，更是心态上的独立。他人的结论可以参考，但最终的决定一定要自己下”，这件微不足道的小事教会了我这个道理。</p>
+<p style="text-indent: 2em;">两年后的现在，我依然对这件事印象深刻。不知不觉中，我变得更加有想法、更加独立——大三暑假，我独自一人在加拿大开展了暑期科研；大四开始，我决定放弃保研，出国留学；大四上学期，我全DIY完成了留学申请……我想，这一切可能就是从大二这件小事开始的吧。</p>
+<p style="text-indent: 2em;">2019年 春</p>
+<p style="text-indent: 2em;">西安交通大学</p>
+]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/530/feed</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>夏天的消失</title>
+		<link>https://dayday.plus/archives/520</link>
+		<comments>https://dayday.plus/archives/520#comments</comments>
+		<pubDate>Fri, 10 May 2019 16:06:06 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[阅读]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=520</guid>
+		<description><![CDATA[交大东南门边的一个转角处，藏着一家小巧精致的饮品店。这里，曾经是我和夏天常常约会的地方。 再次来到这里，我点了一杯最廉价的红茶，悠闲的在藤椅上坐下。这里的装饰没有太大变化——柏木色的露天凉棚，红木色的镂空地板，透明玻璃做成的围栏——依旧是铺 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-indent: 2em;">交大东南门边的一个转角处，藏着一家小巧精致的饮品店。这里，曾经是我和夏天常常约会的地方。</p>
+<p style="text-indent: 2em;">再次来到这里，我点了一杯最廉价的红茶，悠闲的在藤椅上坐下。这里的装饰没有太大变化——柏木色的露天凉棚，红木色的镂空地板，透明玻璃做成的围栏——依旧是铺面而来的清新海岛格调。向左手边看去，墙上多了些可爱的彩色手绘海报。在这个环境里，一种真实感油然而生，好像我们才刚刚见过面。</p>
+<p style="text-indent: 2em;">我喜欢来这里，夏天也喜欢来。大二那年六月，上完游泳课的我精疲力竭，只想在这家饮品店休息休息。那时的西安早已酷暑难耐。但就在这时，一阵微风吹过，仿佛带着柳叶的香气般沁人心脾。我转头望去，夏天坐在那里。她不是那么引人注目，但又那么令人印象深刻；我好像在哪里见过她，但又是如此的陌生。</p>
+<p><span id="more-520"></span></p>
+<p style="text-indent: 2em;">于是，每次游泳课后，尽管还要做令人厌烦的大学物理实验，我都会不紧不慢地在这里买一杯茶，坐在藤椅上向护栏那边望去。我发现，在阳光好的天气，夏天总会出现在那里。于是，我开始企盼阳光正好的午后了。</p>
+<p style="text-indent: 2em;">大二的我感到了深深的忧虑。我渴望轰轰烈烈的人生，但是与理想相对的总是残酷的现实。不甘落后的我，开始发奋读书。从结果上看，大二是我成绩突飞猛进的一年，但也是我焦虑重重的一年——忙碌的学业、不见提高的英语成绩、没有进展的科研训练、对未来升学的担忧。我逐渐有些焦躁，甚至开始动过放弃的念头。而西安的燥热让这种焦虑愈发沉重了。</p>
+<p style="text-indent: 2em;">所幸，我遇见了夏天。起初夏天有些害羞。我向她望去，她便躲我似地低下了头；有时我想多看她几眼，她却匆匆离开。而我倒有些不依不舍，总是在马上要上课的时候才离去。我发现，我喜欢上了这个地方，我喜欢上了夏天。每每在这里看着她，那些萦绕在我脑海中的烦心和负担仿佛都被放空了；每每在这里看着她，我都仿佛有了依靠，重新有了前行的动力。</p>
+<p style="text-indent: 2em;">那天西安阴雨，整个城市好像进入了一个巨大的蒸屉。“诶，又忘记预习实验报告了”。我就像热锅上的蚂蚁，急匆匆的骑上自行车向材料楼那边奔去。可是突然，我看见了一个熟悉的身影——她是夏天——夏天在阴雨天也来了！</p>
+<p style="text-indent: 2em;">那天，夏天第一次陪我走出了饮品店。我推着车子，她依偎着我的肩膀。实验报告的烦心事我已经忘在脑后，我只知道那天的我好幸福、好幸福。从那以后，和她在一起的美好记忆慢慢多了起来——在网球场的大汗淋漓，在康桥广场的无忧无虑，在钱学森图书馆的奋笔疾书……累了，我就和她说说话；困了，我就靠着她小憩一下。和夏天在一起，我总是精神焕发，充满干劲……</p>
+<p style="text-indent: 2em;">红茶已经喝去一半。如往常一样，这家饮品店店只有我和寥寥一两个客人。向栏杆边望去，并没有了夏天的身影。抿抿嘴，我叹了口气，“是啊，夏天怎么会在冬天来这里呢？”。</p>
+<p style="text-indent: 2em;">我们相遇了很久，但分开也很久了——夏天在那个夏天后离开了我。“夏天不是爱情，夏天只是有可能有爱情”。</p>
+<p style="text-indent: 2em;">夏天，你去了哪里？</p>
+<p style="text-indent: 2em;">仍然记得我们一起看山下敦弘导演的爱情电影《天然子结构》。你告诉我，你最喜欢的是静谧的乡村。那时的我还很懵懂，只是觉得主演Kaho很漂亮。“你根本就没有看懂”，你有些生气地对我说，“真正美好的是充满阳光的小镇、懒散无所事事的下午、是吐着舌头的可爱小狗，是穿着短裤的邻家女孩”。你抿着嘴笑了“我喜欢那样的生活，那片乡野就像安放心灵的世外桃源”。</p>
+<p style="text-indent: 2em;">我们的爱情像极了素夜和大泽的青涩之恋——平平淡淡，懵懵懂懂，真真切切，难以忘怀。在那个安静恬淡的乡村，一切烦恼苦闷都随着蝉鸣飘向远方了吧；就算有所忧愁，也会融化在那燥热但美好的夏天中了吧。</p>
+<p style="text-indent: 2em;">虽然已经大四，虽然依旧繁忙，但我比大二那年成熟了许多许多。低头看看手表，是该离开的时候了。我回头望望那边的座位，整理了一下自己的书包，内心突然不像刚刚那样失望了。</p>
+<p style="text-indent: 2em;">夏天，你是不是去了那个静谧的乡村呢？夏天，你还在我的心里呢……</p>
+<p style="text-indent: 2em;">2018年 冬</p>
+<p style="text-indent: 2em;">西安交大</p>
+]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/520/feed</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>走，去欧洲！</title>
+		<link>https://dayday.plus/archives/494</link>
+		<comments>https://dayday.plus/archives/494#comments</comments>
+		<pubDate>Tue, 12 Mar 2019 09:48:04 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[阅读]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=494</guid>
+		<description><![CDATA[还记得我之前种的那一颗牛油果吗？很不幸，它并没有活过西安漫长的冬天。 尽管它在寒潮中努力的伸出了芽，尽管它坚持到了我放寒假的那一天。 因为需要浇水，我只能把它从宿舍带回家。我小心翼翼地把它用纸巾包好，放在行李中。可是，在熙熙攘攘的地铁里，它 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>还记得我之前种的那一颗牛油果吗？很不幸，它并没有活过西安漫长的冬天。</p>
+<p>尽管它在寒潮中努力的伸出了芽，尽管它坚持到了我放寒假的那一天。</p>
+<p>因为需要浇水，我只能把它从宿舍带回家。我小心翼翼地把它用纸巾包好，放在行李中。可是，在熙熙攘攘的地铁里，它还是夭折了。</p>
+<p><span id="more-494"></span></p>
+<p>其实，我根本不敢想象牛油果会真的长成一株树。但当我某天看到它长出了芽，我曾经有过一丝幻想。</p>
+<p>似乎，牛油果的夭折就是注定。就像我的申请季，最终没有奇迹的发生，至少现在如此。</p>
+<p>但好在，奇迹也许不会来，春天总会如约而至。虽然我的美国博士申请全聚德，但我依然收到了惊喜！</p>
+<p>&nbsp;</p>
+<p><img class=" wp-image-496 aligncenter" src="https://dayday.plus/wp-content/uploads/2019/03/2019-03-12-16_54_58-Window-300x201.png" alt="" width="513" height="344" srcset="https://dayday.plus/wp-content/uploads/2019/03/2019-03-12-16_54_58-Window-300x201.png 300w, https://dayday.plus/wp-content/uploads/2019/03/2019-03-12-16_54_58-Window-768x516.png 768w, https://dayday.plus/wp-content/uploads/2019/03/2019-03-12-16_54_58-Window.png 807w" sizes="(max-width: 513px) 100vw, 513px" /></p>
+<p>&nbsp;</p>
+<p>3月6号。那天是我父亲的生日。下午6点，我收到邮件录取通知的那一刻，长久的压抑和焦虑有如洪水一般泄放。我把头埋在被子里，用力的叫喊。我第一时间给我母亲通话，说“终于有一所真正想去的学校来信了！”。我把Offer截图发在家人群里，父亲回复“这是给我生日最好的礼物！”</p>
+<p>春天终于来了！我制定了新的计划：出色的完成毕业设计、开始考驾照、努力锻炼编程、开始减肥。总之，我又重新拥有了斗志！</p>
+<figure id="attachment_506" style="width: 419px" class="wp-caption aligncenter"><img class="wp-image-506" src="https://dayday.plus/wp-content/uploads/2019/03/IMG_9469-300x225.jpg" alt="" width="419" height="314" srcset="https://dayday.plus/wp-content/uploads/2019/03/IMG_9469-300x225.jpg 300w, https://dayday.plus/wp-content/uploads/2019/03/IMG_9469-768x576.jpg 768w, https://dayday.plus/wp-content/uploads/2019/03/IMG_9469-1024x768.jpg 1024w, https://dayday.plus/wp-content/uploads/2019/03/IMG_9469.jpg 1440w" sizes="(max-width: 419px) 100vw, 419px" /><figcaption class="wp-caption-text">交大之春</figcaption></figure>
+<p>欧洲，我来了！我录取的学校在瑞士，全称叫做苏黎世联邦理工学院(ETHZ)。我录取的专业是生物医学工程，我将继续将电子电路方面的研究应用在相关的生物医疗领域。我会争取留在ETHZ读博，或者去英国或者美国进修。</p>
+<p>总之，新的人生即将开始。</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/494/feed</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>水一下证明自己还健在 = =</title>
+		<link>https://dayday.plus/archives/403</link>
+		<comments>https://dayday.plus/archives/403#comments</comments>
+		<pubDate>Wed, 28 Nov 2018 17:26:32 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[阅读]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=403</guid>
+		<description><![CDATA[最近一大波学校的截止日期就要到了，每天都昏天黑地的。所以也没有时间更新，有些博友的博客没有顾得及看，在此说声抱歉（≧︿≦）。为了表示没有忘记你们，我就在这里刷刷存在感吧~各位，等我几周后再high起来~~ 顺便恭喜一下lexus的牛油果结出 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>最近一大波学校的截止日期就要到了，每天都昏天黑地的。所以也没有时间更新，有些博友的博客没有顾得及看，在此说声抱歉（≧︿≦）。为了表示没有忘记你们，我就在这里刷刷存在感吧~各位，等我几周后再high起来~~</p>
+<p><span id="more-403"></span></p>
+<p>顺便恭喜一下<a href="http://leiminnet.cn/blog/index.php/archives/333/">lexus</a>的牛油果结出芽了呢，大家可以去看看呀~~至于我的么，情况好像有点不容乐观 = =！</p>
+<p><a href="https://www.moonster.top/index.php/2018/11/12/404.html">一次二三遥</a>好像遇到了一些感情挫折了，我其实有认真看呢，但是真的不知道该有何评论，毕竟我也没有这种经历呀hiahiahia</p>
+<p><a href="https://blog.imalan.cn/archives/216/">熊猫小A</a>又开始写高大上的代码啦！向他学习，我一定要找个时间好好训练一下代码能力（˙ω˙）</p>
+<p>写到最后发现，这篇写作风格不知不觉有点像<a href="https://www.dreamwings.cn/">千千</a>的口吻了呢~ 哎，不多说了，我们都是可爱的蓝孩子啦(*/ω＼*)</p>
+<p>总之，再忙一忙，一定会有好结果的。世界晚安~</p>
+<p>（下图是万恶的deadline┭┮﹏┭┮）</p>
+<p><img class="size-medium wp-image-404 aligncenter" src="https://dayday.plus/wp-content/uploads/2018/11/2018-11-29-01_23_22-Window-40x300.png" alt="" width="40" height="300" /></p>
+<p>（北京时间Nov29 1:44AM）</p>
+]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/403/feed</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>偶遇 · 兰州</title>
+		<link>https://dayday.plus/archives/253</link>
+		<comments>https://dayday.plus/archives/253#comments</comments>
+		<pubDate>Tue, 30 Oct 2018 12:44:38 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[阅读]]></category>
+		<category><![CDATA[兰州]]></category>
+		<category><![CDATA[旅行]]></category>
+		<category><![CDATA[黄河]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=253</guid>
+		<description><![CDATA[我为什么来兰州 和兰州偶遇算得上一种缘分吧。各种阴差阳错让我来到了这座城市，主要目的却只有一个——再考一次GRE和TOEFL。 早在一个月前我就有再考一次GRE和TOEFL的打算了。那时我还在加拿大，并且提前订好了渥太华的考位。可谁知，当我 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h3>我为什么来兰州</h3>
+<p>和兰州偶遇算得上一种缘分吧。各种阴差阳错让我来到了这座城市，主要目的却只有一个——再考一次GRE和TOEFL。</p>
+<p>早在一个月前我就有再考一次GRE和TOEFL的打算了。那时我还在加拿大，并且提前订好了渥太华的考位。可谁知，当我风尘仆仆地从蒙特利尔感到渥太华后，在凌晨收到了ETS的邮件——GRE因为台风原因被取消了！而TOEFL则是快回国前考了一次，离心里预期又是一步之遥，只能重考。</p>
+<p><span id="more-253"></span></p>
+<p>国外随便注册的GRE和TOEFL考试，来到国内就变得异常紧俏。可能是因为西安高校众多，当我9月下旬查询10月份西安的考位时，竟然全部爆满！退而求其次，便不得不在西安周边的城市考试了。选项其实也不少：兰州、太原、成都、洛阳、绵阳、郑州——多亏了高铁，这些地方基本都在4小时的路程范围内。</p>
+<p>最初我报的是成都的GRE和兰州的托福，可接近考试兰州又放出了一批GRE考位，为了减少折腾，我就把成都的GRE转考到了兰州。如此以来，26号和28号，三天我要同时面对GRE和TOEFL的洗礼！至于我为什么最初要报兰州和成都的考试呢？嘻嘻，这当然和我爱玩的性格分不开啦。但考虑到毕竟还是考试更重要些，才在最后将两场考试凑在一个城市的。</p>
+<h3>来兰州的简要规划</h3>
+<p>在加拿大独自生活的三个月，确实使我能够更加自信地规划一次旅程了。</p>
+<p>我觉得规划旅行最应该注意的有三点：怎么去，住在哪，想玩什么？</p>
+<p>怎么去，就是交通了。我自然毫不犹豫的选择高铁，经济实惠、方便快捷。但要注意的是到站之后有没有去市区的车，好在兰州西站就在市区里，公交车非常方便。</p>
+<p>住在哪，作为一个穷学生的我当然是选择青旅。考虑到GRE考场和托福考场在兰州的不同区（一个靠北、一个靠南），三天的住宿我选择了两家青旅，离考场都在半小时路程之内。在加拿大我使用过booking.com订过旅馆，感觉还不错，因此我继续使用booking.com完成了住宿的预定。我预定青旅的标准很简单：评分高自然是首要之事，评分高的不一定好，但评分低的一定很差！还有就是要住的方便，这也是青旅的很大优势。特别注意的一点是青旅一般都是合住，这个时候我往往会选择合住人数最少的房间。因为我觉得住青旅最恼人的事就是有人大半夜吵闹、或者起得很早之类的，一间房子人越少的话遇到这种情况的机会自然越低。</p>
+<p>至于去哪里玩，我简单的在马蜂窝上搜索了一下，就列了一下清单~</p>
+<p><img class="size-medium wp-image-266 aligncenter" src="https://dayday.plus/wp-content/uploads/2018/10/IMG_8594_副本-1-268x300.jpg" alt="" width="268" height="300" srcset="https://dayday.plus/wp-content/uploads/2018/10/IMG_8594_副本-1-268x300.jpg 268w, https://dayday.plus/wp-content/uploads/2018/10/IMG_8594_副本-1.jpg 514w" sizes="(max-width: 268px) 100vw, 268px" /></p>
+<p>名彻全国的兰州牛肉面自然要试一试，而各种兰州小吃可以再正宁路小吃街买到。马踏飞燕、黄河母亲像和中山桥，作为兰州的旅游符号，就如同西安的兵马俑一样，当然也要一睹尊容。而读者杂志则是承载了我的初高中回忆，必然也要走访一番。</p>
+<h3>从西安到兰州</h3>
+
+<a href='https://dayday.plus/archives/253/img_8597-min'><img width="150" height="150" src="https://dayday.plus/wp-content/uploads/2018/10/IMG_8597-min-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://dayday.plus/archives/253/img_8600-min'><img width="150" height="150" src="https://dayday.plus/wp-content/uploads/2018/10/IMG_8600-min-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p style="text-align: center;">雨后的西安一片晴好，带来了古都冬季少有的蓝天。</p>
+
+<a href='https://dayday.plus/archives/253/img_8649-min'><img width="150" height="150" src="https://dayday.plus/wp-content/uploads/2018/10/IMG_8649-min-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://dayday.plus/archives/253/img_8651-min'><img width="150" height="150" src="https://dayday.plus/wp-content/uploads/2018/10/IMG_8651-min-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p style="text-align: center;">一张复兴号高铁票，载着我沿着古丝绸之路，继续向西。</p>
+
+<a href='https://dayday.plus/archives/253/img_8617-min'><img width="150" height="150" src="https://dayday.plus/wp-content/uploads/2018/10/IMG_8617-min-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://dayday.plus/archives/253/img_8650-min'><img width="150" height="150" src="https://dayday.plus/wp-content/uploads/2018/10/IMG_8650-min-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p style="text-align: center;">母亲河黄河，滋养了兰州也滋养了全国。</p>
+
+<a href='https://dayday.plus/archives/253/img_8654-min'><img width="150" height="150" src="https://dayday.plus/wp-content/uploads/2018/10/IMG_8654-min-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://dayday.plus/archives/253/img_8653-min'><img width="150" height="150" src="https://dayday.plus/wp-content/uploads/2018/10/IMG_8653-min-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p style="text-align: center;">读者杂志社又把我带回了高考前，老旧的中山桥见证了黄河与兰州的悠长故事。</p>
+
+<a href='https://dayday.plus/archives/253/img_8623-min'><img width="150" height="150" src="https://dayday.plus/wp-content/uploads/2018/10/IMG_8623-min-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://dayday.plus/archives/253/img_8656-min'><img width="150" height="150" src="https://dayday.plus/wp-content/uploads/2018/10/IMG_8656-min-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+<p style="text-align: center;">抓紧时间为临时抱佛脚，为考试做准备</p>
+<p>其实兰州真的是一个土里土气的城市，破旧的市容、混乱的街道，都让人爱不起来。但那条黄河却令我印象深刻。有篇游记里说得好——一条黄河让这座城市活了起来。</p>
+<p>站在中山桥上，放眼望去，宽广的河面上是翻腾的河水。兹时秋分已过，河岸两侧的土山上，树木早已失去了葱翠之色。这里没有了当年课文中学到的纤夫木筏，但几只疾驰的快艇在翻涌的浪上披波而行，依然显得渺小。也许是我习惯了家乡平静的渭河，黄河的水量和湍急大大出乎我的意料。她就像是翻涌的血脉，让你觉得这座城市又是不断拼搏而又悦动的。</p>
+<p>兴致一来，我用QQ音乐打开了黄河大合唱。这是一首多么富有韵味的歌啊。祖国受到侵略，需要壮士挥血撒泪，但词曲间又充满了欢快与乐观。两岸的高粱变成了宽敞的马路，河边的轻纱帐则变成了市民舞蹈的裙子。黄河母亲像旁，开着大喇叭放声歌唱的市民载歌载舞。要是在其他地方，我们说他扰民还来不及。但在黄河的背景下，这一切又显得如此和谐。沿着河岸，当地人排出几张桌子，沏上绿茶、端几碗酿皮，侃天聊乐，粗糙简陋但质朴纯粹。</p>
+<p>来自黄土高原边陲的我心生了一种强烈的依附感，这种感觉当然来自于伟大的母亲河。黄河就像是一条纽带，联系着兰州人、北方人和无数炎黄子孙们。也许他们说着不同的方言，有着不同的习俗。但看到黄河，他们有了共同的母亲。那座流淌在他们家乡旁边的河流，不但陪伴着他们、也陪伴了他们的父亲母亲，更陪伴了中华大地几千年。</p>
+<h3>费用统计</h3>
+<p>我特意统计了一下我这次兰州之旅的花费。恩，对于我这样的穷学生还是可以接受的 <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: center;">往返高铁  174.5 * 2 = 349.0</p>
+<p style="text-align: center;">市区内交通  ~10</p>
+<p style="text-align: center;">餐饮 136.5 (原谅我是一个吃货&#8230;)</p>
+<p style="text-align: center;">住宿 80 + 55 *2 = 190</p>
+<p style="text-align: center;">其他(零食etc) 20</p>
+<p style="text-align: center;">总计 705.5</p>
+<h3>最后</h3>
+<p>因为GRE和TOEFL，我来到了这里。其实还是怪自己平时没有在这上面下狠功夫，不过自我感觉这次考完会和这两门考试彻底分手了。如果让我给学弟学妹建议的话，一定要早点着手并重视英语考试！</p>
+<p>至于兰州，则因为黄河让我极有认同感。我爱西北的一切，也许她荒凉、破败，但那里是生我养我的地方。</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/253/feed</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>关于《放学后》</title>
+		<link>https://dayday.plus/archives/28</link>
+		<pubDate>Sun, 05 Aug 2018 00:01:33 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[阅读]]></category>
+		<category><![CDATA[东野圭吾]]></category>
+		<category><![CDATA[侦探]]></category>
+		<category><![CDATA[日本文学]]></category>
+
+		<guid isPermaLink="false">http://dayday.plus/?p=28</guid>
+		<description><![CDATA[在我所读的《东野圭吾作品集》最前面，作者题了一段短短的序，其中极其自我地归结出东野的“四大神作”——《放学后》是其中的最后一本。陆陆续续看完了很多本东野的著作，要是让我推荐其中一本作为日常的消遣，我会首先推荐《放学后》这部作品。 黑板、桌椅 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>在我所读的《东野圭吾作品集》最前面，作者题了一段短短的序，其中极其自我地归结出东野的“四大神作”——《放学后》是其中的最后一本。陆陆续续看完了很多本东野的著作，要是让我推荐其中一本作为日常的消遣，我会首先推荐《放学后》这部作品。</p>
+<p>黑板、桌椅、制服、操场，这些充满青春感的意象让人感到久违的亲切——尤其是对于像我这样刚刚高中毕业没多久的大学生来说。闲暇时，人们或许不太愿意为复杂的社会背景、抑或是黑暗的人性冲突打昏头脑，那么校园就提供了这样一种简单却又富有趣味的推理场景。从情感上说，面对“清华女子高校”里一群单纯善良、充满灵性的高中女孩，还有谁会为逼仄的生活发出叹息呢；从事件的发展上来说，简单熟悉的场景设定反倒突出了推理的存在感，让人更加沉浸情节其中了。</p>
+<p>与《白夜行》里交织盘缠的情节推进不同，《放学后》更像是将接连不断的事件明快简洁地拼接起来。但不要以为《放学后》后因为“直白”失了伏笔，从一开始这些事件就将人引去错误的方向，只有真正机敏的读者才能意识到案件的真相。当然，这种不够复杂严谨的情节设定是优是劣众说纷纭，大部分声音仍然倾向于该作体现了东野尚未成熟的写作风格，因此存在诸多瑕疵。但对于推理小说初读者来说，本已足够优秀的推理中那些“瑕疵”就显得微不足道了。</p>
+<p>最被人质疑的是该小说中罪犯的作案动机，尽管我对此亦有疑惑，但远未像读完《恶意》后那么地耿耿于怀。在我看来，《恶意》用了过多的笔墨描述了一个我非认同的作案动机，在阴暗人性和复杂社会背景的衬托下，使我更加疲惫而失望。但《放学后》因其更加灵动的书写方式，简单的情节推进，将我的这种失望最小化了。几乎是在最后一节中，东野才点明了作案动机，在所有之前的章节中，充满悬疑、曲折、惊喜的推理过程已经使我满足。深究动机的合理性未尝不可，思考过后的我还是认同这种作案动机的。本身心智就未成熟的女学生，被人通过“偷窥”的方式看到了自己的不雅——不难想象她们的愤怒。</p>
+<p>我已经读完了东野的《白夜行》、《嫌疑人X的献身》、《恶意》、《放学后》、《解忧杂货店》等五部作品，深觉东野无愧为火遍世界的畅销小说家。自己也希望能在未来看到东野推出更多的优秀作品。</p>
+<p>&nbsp;</p>
+<p>2018-08-05 蒙特利尔</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>关于《恶意》</title>
+		<link>https://dayday.plus/archives/37</link>
+		<pubDate>Thu, 26 Jul 2018 18:22:35 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[阅读]]></category>
+		<category><![CDATA[东野圭吾]]></category>
+		<category><![CDATA[侦探]]></category>
+		<category><![CDATA[日本文学]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=37</guid>
+		<description><![CDATA[1. 感谢东野圭吾，总能让我体会到一点内容外的东西：这是我第一次阅读“手记体”式的文章。东野圭吾也让我迷上了真正的“现代文学”，我清晰记得看完《解忧杂货店》后对于那种多线交织的现代写作手法的着迷。 1.1 虽然评论家说这部作品充分利用到了“ [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>1. 感谢东野圭吾，总能让我体会到一点内容外的东西：这是我第一次阅读“手记体”式的文章。东野圭吾也让我迷上了真正的“现代文学”，我清晰记得看完《解忧杂货店》后对于那种多线交织的现代写作手法的着迷。</p>
+<p>1.1 虽然评论家说这部作品充分利用到了“手记体”形式的优点，但我仍然对这种形式的选择持有怀疑态度：除了在案件扭转的那一瞬间，大多数时候更像是看理性的解释。</p>
+<p>2. 作者好似故意在用“引起怀疑——佯装解释——颠覆判断”的手法，至少在我阅读时，确实会时不时觉得有些地方不对劲，但作者很快会把这些不对劲解释一下，或者有意无意的带过了。印象最深的一处就是野野口修说的“别乱翻我的书架，那里还有关心我的人的重要书籍“。后来是加贺突然想到有这一句话才开始又一次翻书架、才能最后找到相片。我如果是加贺肯定会对此产生极大的疑惑，这太像一句故意”引诱“的话了！但作者好像并不在意，我也就觉得是自己多虑了。可谁能想这竟然真是野野口修故意说的，给人一种“哦，越来是这样，我早就觉得奇怪”的感觉。</p>
+<p>2.1 当发现自己被“骗”时，我不知道这是野野口修的阴谋太为精妙将我欺骗了，还是作者刻意引导使我判断错误。</p>
+<p>3. 校园暴力、幼年时他们的恩恩怨怨那里是众人的说辞拼凑起来了，说实话我没有用心看完所有的说辞，总体印象并不深刻。所以当得知恰恰是这些使得野野口修变成杀人恶魔时，我觉得说服力不足。</p>
+<p>3.1 我想说服力不足恰恰也说明了“手记体”的一些缺点，那些“众人”的引述都是些模模糊糊的回忆，将当事人内心的真正怨恨隐蔽了起来。使得我们只能靠想象来理解野野口修的“恶意”是多么可怖。</p>
+<p>3.2 但不幸，可能是我的人生阅历不够丰富，我无法构想出野野口修对于日高，是如何从普通同学走向极度怨恨的。“哦，应该是人性之恶导致的吧”，我勉强接受——正如此我也就没有当初看完《嫌疑犯X的献身》时那样的震撼、没有看完《虚无的十字架》那样的沉重、没有看完《白夜行》那样的绝望。</p>
+<p>3.3 果真要解读“恶意”的来源，我想还是要靠当事人的内心独白。旁观者终究是浮在表面，就算是明察真相的加贺不也是将信将疑吗？</p>
+<p>4. 我觉得最精彩的地方是日高、野野口修和日高妻子之间三角关系的那段，如果那样结果就足以使我满意了。反倒是下文的真相，野野口修“就是看你不爽”的杀人动机，我提不起兴趣，作者借加贺的口吻揭明真相好像也没有给读者太多的想象空间。</p>
+<p>4.1 细细想想，自己的稍许失望应该是对“个人仇恨”并不关注的缘故吧。这样子的仇恨让我联想到了性格缺陷和精神疾病，夸张点说，谁会在意一个精神疾病患者的“过失杀人”呢？</p>
+<p>5. 我绝不否认这是一部优秀作品。只是从我个人角度，它与其他几本我读过的东野圭吾的作品有些差距罢了。</p>
+<p>5.1 如果“恶意”真的能如此迅猛的生长的话，我只能衷心祝愿生活中多一些阳光、少一些恶意吧。</p>
+<p>&nbsp;</p>
+<p>2018-07-27 蒙特利尔</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>关于《江城》</title>
+		<link>https://dayday.plus/archives/39</link>
+		<pubDate>Wed, 25 Jul 2018 18:23:41 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[阅读]]></category>
+		<category><![CDATA[文学]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=39</guid>
+		<description><![CDATA[写这篇书记时我只阅读了1/4处左右。虽然文风简洁轻快，又不遗余力的描写着自己所看到的一切，但在我看来依然过于平淡了。初读时对于“外国人独特的视角”的兴趣也差不多消耗殆尽了——在这个信息大爆炸的时代，通过十几万字的阅读来了解他们的观点或许并不 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>写这篇书记时我只阅读了1/4处左右。虽然文风简洁轻快，又不遗余力的描写着自己所看到的一切，但在我看来依然过于平淡了。初读时对于“外国人独特的视角”的兴趣也差不多消耗殆尽了——在这个信息大爆炸的时代，通过十几万字的阅读来了解他们的观点或许并不值当。综其上两点，我主要还是将其作为游记散文来解读。</p>
+<p>掩上书卷，相比一座有声有色的立体城市，作者笔下的涪陵更像是一张水彩画，细节上用色恰如其分，但待不及颜料浸入纸内便干瘪了。如果不是作者外国人的身份，如果不是这本书在海外市场上的热销，这本书应该是很难进入主流的读者圈子的。</p>
+<p>提到涪陵不得不提到长江，看看国人是怎么描绘长江的吧，出自余秋雨的《文化苦旅》：</p>
+<p>“多少年后，我早已知道童年的误解是多么可笑，但当我真的坐船经过白帝城的时候，依然虔诚地抬着头，寻找着银袍与彩霞。船上的广播员正在吟诵着这首诗，口气激动地介绍几句，又放出了《白帝托孤》的乐曲。猛地，山水、历史、童年的幻想、生命的潜藏，全都涌成一团，把人震傻……”。</p>
+<p>这条被我们亲切地叫做“母亲河”的河流，孕育了富庶的祖国西南，也见证了连绵千年的中国历史。这本书中关于涪陵城的一砖一瓦、过去曾经，如果没有那个隐藏在背后看不见的，我们国人谓之“文化”的东西撑后台，文章会变得多么的干瘪。我个人偏爱厚重，执着于所谓的“意蕴”，在我看来，《江城》并没有很好的传达这一点。</p>
+<p>当然，我们对外国人的作品或许不能有这么高的要求，那么游记散文的另一个要点：热爱，就我个人而言觉得本书依然是所欠缺。</p>
+<p>我对三毛的《撒哈拉的故事》印象极为深刻。同样是身赴异乡，我读这本书的时候真切感受到了作者对于这篇土地、这种生活的热爱。读时盛夏，所写的背景是干燥的沙漠，但阅读起来就像夏雨跃动在荷叶表面一样灵动。尽管有欢有喜、有苦有乐，但三毛尽可能的融入到那片土地的独特文化里，再用自己的视角谨慎地解读。</p>
+<p>但我在《江城》这本书里，看到的更多是用局外人的眼光描写这里的场景。读着读着，就像是行在平静海面上的行船，不知不觉便陷入麻木——你不知道为什么依然要执着在这条行船上，不知道这条船想要驶向何处。或许，这种格格不入，从他驻扎在这里，领导送给他“洗衣机”和“电视机”那一刻开始就不一样了吧。就像某人所言“在异国他乡待着却没有奋力扎根的决心是一种折磨；固然有许多别人艳羡的自由，却又有点逃避责任的意味，像轻飘飘地活着，哪里都写不下浓墨重彩的一笔。”</p>
+<p>这本书面向的群体主要是外国的朋友，在我们眼里司空见惯到不值一提的东西或许能够勾起他们强烈的阅读兴趣，在我们看来浅薄轻浮的景色描写却深得外国友人的心吧。但对于中国读者，并非必读不可。</p>
+<p>2018-07-26 蒙特利尔</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>关于《虚无的十字架》</title>
+		<link>https://dayday.plus/archives/41</link>
+		<pubDate>Sat, 21 Jul 2018 18:25:09 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[阅读]]></category>
+		<category><![CDATA[东野圭吾]]></category>
+		<category><![CDATA[侦探]]></category>
+		<category><![CDATA[日本文学]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=41</guid>
+		<description><![CDATA[“虚无的十字架”到底指的是什么，看完书如果认为“十字架”指的是负担、需要承受的惩罚，那么“虚无”怎么理解呢？这本书大概由三起命案引起，如果说杀死爱美的罪犯认为死刑“倒也不错”——这个惩罚是“虚无的”，那么另外两起命案的判决（如果有）会是“虚 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>“虚无的十字架”到底指的是什么，看完书如果认为“十字架”指的是负担、需要承受的惩罚，那么“虚无”怎么理解呢？这本书大概由三起命案引起，如果说杀死爱美的罪犯认为死刑“倒也不错”——这个惩罚是“虚无的”，那么另外两起命案的判决（如果有）会是“虚无”的吗？纱织和史也年轻时犯下的罪行，在用不同的方式弥补；花慧父亲为了女儿女婿的幸福生活犯下的罪行，应该会意识到自己可能受到的死刑控诉。这么看来，三起案件中两起里的“十字架”都不是“虚无”的，那么“虚无”的真正含义是什么呢？</p>
+<p>有人觉得“十字架”是犯人身上背负的负担、不如说是社会中运行的这套刑罚体制是“虚无”的。按照小说里小夜子的调查，刑事罪犯二次犯罪的概率高达60%，这么看来，刑法到底有没有起到改造罪犯的目的呢？还是恰恰如小夜子所说“死刑的最大好处就是使杀人犯不会再次杀人”。但是跳出小说，查阅资料发现二次犯罪率远没有那么高，在中国这一比例甚至低于10%。思维严谨的推理小说家不可能在这样的基础事实上撒谎。</p>
+<p>关于罪与罚、“死刑”的合理性是一个过于庞大的话题，至今都充满争议。并且这种争议不仅仅是存在于人与人之间，甚至在同一个人中也是常常摇摆。</p>
+<p>每个人的选择是由理性和感性两重决定的，但是理性选择又何尝容易。就连遗族自己也会在某一瞬间怀疑，甚至是做出与之前的自己完全相反的选择。小夜子是这个故事中的关键人物，并不在明面上描写的她在为人忽视的背面推动的事情的发展。因为自己的“过失”而失去女儿，她一定是最为痛苦的那一个。在法庭上执着的要求罪犯判处死刑，也不难理解。但当她得知罪犯对判决轻浮的态度、甚至觉得死刑“还不错”时，她也会产生怀疑，这样的死刑判决到底能不能让罪犯得到真正的惩罚，还是说之时为了自己的安慰呢？</p>
+<p>同样的，对另一个关键人物——中原，他的选择也并非一成不变。十几年前，为女儿遇害抱不平的他不惜一切努力想要让罪犯判处死刑。但十几年后，面对眼前的杀人凶手——纱织和史也，他竟然平静的让他们自己做出是否自首的抉择。</p>
+<p>当事人都是如此，更不用说旁观者了。一个令人心疼的角色是花慧的父亲，那个一直被花慧厌恶、生活落魄的老骨头，却也会为了女儿的幸福生活做出那样子的选择。他应该不会不知道自己可能会面临的死刑判决，但他依然选择下手。如果说“十字架”是悬在犯人头顶的惩罚威胁，那一刻，“十字架”失效了。其实更加可怜的是那些完全无辜的死者，那个意外遭到杀害的爱美，和惨遭毒手的婴儿。如果说“十字架”是负担的象征，和罪犯相比，他们背负的才是最大的负担，一种用失去生命背负的代价。</p>
+<p>是否需要死刑，“十字架”到底存不存在，看来我们并不能简单的做出判断，甚至永远都无法做出判断——这或许是“虚无”的真正含义，也应该是作者东野圭吾的意图。通过一部小说，一部编纂巧妙的故事，唤起社会对于量刑合理性的关注，引发我们的思考。如果十字架是理想中正义的审判，又怎样才能够做到。</p>
+<p>搜索书评时偶然看到一个神奇的猜想：小说最后说那个被纱织和史也杀死的婴儿的遗体一直都没有被找见，会不会是小夜子将其转移至别处了呢？是不是在最终小夜子知道事情的所有真相，选择接受那对年轻人多年来的救赎，而原谅了她们呢？</p>
+<p>2018-07-22 蒙特利尔</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

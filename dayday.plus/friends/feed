@@ -10,10 +10,41 @@
 	<atom:link href="https://dayday.plus/friends/feed" rel="self" type="application/rss+xml" />
 	<link>https://dayday.plus</link>
 	<description>KAAHO&#039;S BLOG / DAYDAY.PLUS / 微博@夏和帆</description>
-	<lastBuildDate>Tue, 10 Dec 2019 21:04:55 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Dec 2019 05:51:54 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.12</generator>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
+	<item>
+		<title>作者：夏和帆</title>
+		<link>https://dayday.plus/friends#comment-309</link>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2019 22:28:57 +0000</pubDate>
+		<guid isPermaLink="false">http://dayday.plus/?page_id=21#comment-309</guid>
+		<description><![CDATA[你好，多加互访，互相熟悉之后再友链也不迟哦~]]></description>
+		<content:encoded><![CDATA[<p>你好，多加互访，互相熟悉之后再友链也不迟哦~</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：AngelNI</title>
+		<link>https://dayday.plus/friends#comment-308</link>
+		<dc:creator><![CDATA[AngelNI]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2019 12:06:41 +0000</pubDate>
+		<guid isPermaLink="false">http://dayday.plus/?page_id=21#comment-308</guid>
+		<description><![CDATA[加个友链吧 ^_^
+博客名称：AngelNI&#039;s Blog
+
+博客地址：https://angelni.github.io
+
+博客头像：https://angelni.github.io/AngelNI.github.io/images/avatar.png
+
+博客简单介绍：愿我们都能和最好的自己相遇]]></description>
+		<content:encoded><![CDATA[<p>加个友链吧 ^_^<br />
+博客名称：AngelNI&#8217;s Blog</p>
+<p>博客地址：https://angelni.github.io</p>
+<p>博客头像：https://angelni.github.io/AngelNI.github.io/images/avatar.png</p>
+<p>博客简单介绍：愿我们都能和最好的自己相遇</p>
+]]></content:encoded>
+	</item>
 	<item>
 		<title>作者：夏和帆</title>
 		<link>https://dayday.plus/friends#comment-280</link>
@@ -103,26 +134,6 @@ logo：http://icelily.xyz/headicon.jpg<br />
 		<guid isPermaLink="false">http://dayday.plus/?page_id=21#comment-202</guid>
 		<description><![CDATA[原来你就是以前找我换友链的伙伴。要是当初换的是这个博客，我就会答应了...]]></description>
 		<content:encoded><![CDATA[<p>原来你就是以前找我换友链的伙伴。要是当初换的是这个博客，我就会答应了&#8230;</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>作者：Rintarou</title>
-		<link>https://dayday.plus/friends#comment-201</link>
-		<dc:creator><![CDATA[Rintarou]]></dc:creator>
-		<pubDate>Mon, 22 Apr 2019 10:25:01 +0000</pubDate>
-		<guid isPermaLink="false">http://dayday.plus/?page_id=21#comment-201</guid>
-		<description><![CDATA[好的ヽ(￣▽￣)，之前还以为评论发不出去...و]]></description>
-		<content:encoded><![CDATA[<p>好的ヽ(￣▽￣)，之前还以为评论发不出去&#8230;و</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>作者：夏和帆</title>
-		<link>https://dayday.plus/friends#comment-200</link>
-		<dc:creator><![CDATA[夏和帆]]></dc:creator>
-		<pubDate>Sun, 21 Apr 2019 07:06:08 +0000</pubDate>
-		<guid isPermaLink="false">http://dayday.plus/?page_id=21#comment-200</guid>
-		<description><![CDATA[已经添加好了，请查看~~~多互访哦~]]></description>
-		<content:encoded><![CDATA[<p>已经添加好了，请查看~~~多互访哦~</p>
 ]]></content:encoded>
 	</item>
 </channel>

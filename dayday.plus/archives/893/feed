@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《使用HTTrack和Github进行网站“硬核备份”》的评论</title>
+	<atom:link href="https://dayday.plus/archives/893/feed" rel="self" type="application/rss+xml" />
+	<link>https://dayday.plus/archives/893</link>
+	<description>KAAHO&#039;S BLOG / DAYDAY.PLUS / 微博@夏和帆</description>
+	<lastBuildDate>Sun, 22 Dec 2019 05:51:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
+	<item>
+		<title>作者：夏和帆</title>
+		<link>https://dayday.plus/archives/893#comment-321</link>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 21:55:36 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=893#comment-321</guid>
+		<description><![CDATA[是的，我基本半年备份一次]]></description>
+		<content:encoded><![CDATA[<p>是的，我基本半年备份一次</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：响石潭</title>
+		<link>https://dayday.plus/archives/893#comment-317</link>
+		<dc:creator><![CDATA[响石潭]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 13:01:40 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=893#comment-317</guid>
+		<description><![CDATA[时刻备份~~~硬核好方法]]></description>
+		<content:encoded><![CDATA[<p>时刻备份~~~硬核好方法</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

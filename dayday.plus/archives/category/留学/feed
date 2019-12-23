@@ -12,11 +12,11 @@
 	<atom:link href="https://dayday.plus/archives/category/%e7%95%99%e5%ad%a6/feed" rel="self" type="application/rss+xml" />
 	<link>https://dayday.plus</link>
 	<description>KAAHO&#039;S BLOG / DAYDAY.PLUS / 微博@夏和帆</description>
-	<lastBuildDate>Tue, 10 Dec 2019 22:22:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Dec 2019 19:10:55 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.12</generator>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
 
 <image>
 	<url>http://dayday.plus/wp-content/uploads/2018/09/hp-150x150.jpg</url>
@@ -26,6 +26,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>选择焦虑</title>
+		<link>https://dayday.plus/archives/859</link>
+		<comments>https://dayday.plus/archives/859#comments</comments>
+		<pubDate>Tue, 10 Dec 2019 22:17:35 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[留学]]></category>
+		<category><![CDATA[方向，留学]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=859</guid>
+		<description><![CDATA[In most financial settings, risk is a bad thing; you have to be paid to bear it. Investors in risky (high-beta) stocks demand higher expected rates of return. Highrisk capital investment projects have [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="size-medium aligncenter" src="https://i.loli.net/2019/12/11/zC7da4wb9Wqe1RI.png" width="337" height="399" /></p>
+<blockquote><p>In most financial settings, risk is a bad thing; you have to be paid to bear it. Investors in risky (high-beta) stocks demand higher expected rates of return. Highrisk capital investment projects have correspondingly high costs of capital andhave to beat higher hurdle rates to achieve positive NPV.</p>
+<p>For options it’s the other way around. As we have just seen, options written on volatile assets are worth more than options written on safe assets. If you can understand and remember that one fact about options, you’ve come a long way.</p>
+<p>&nbsp;</p></blockquote>
+<p><span id="more-859"></span></p>
+<p style="text-indent: 2em;">在苏黎世理工，选课非常自由。但究竟选择什么课，着实是一件令人头痛的事情——有趣的课程太多、自己了解的又太少。纠结再三，这学期我一共选了五门专业课。</p>
+<ul>
+<li>VLSI 1: From Architecture to VLSI and FPGAs</li>
+<li>Neuromorphic Engineering 1</li>
+<li>Introduction to Neuroinformatics</li>
+<li>Image Analysis and Computer Vision</li>
+<li>Bioelectronics and Biosensors</li>
+</ul>
+<p style="text-indent: 2em;">我是这样思考我的选课方案的：我一方面不愿意抛弃本科的电路背景，因此选择了VLSI和Neuromorphic Engineering；又希望尽可能的了解与医学和神经科学交叉，因此选择了Bioelectronics和Neuroinformatics的课程；又忍不住选了一门Computer Vision了解一下时下最火的领域。</p>
+<p style="text-indent: 2em;">我对这个最终的选课方案也并非一直是满意的。学期前半段，我觉得自己的选课太偏实践，于是后悔为什么没有多选几门数学和Machine Learning的理论课程。学期后半段，又觉得自己的电路课程选的又太少，后悔自己应该更专一于自己最擅长的领域而不是太过于交叉。</p>
+<p style="text-indent: 2em;">对于未来研究方向选择的迷茫，从我的选课方案上就可见一斑。</p>
+<p style="text-indent: 2em;">但是最近，我的兴趣似乎又有了变化。Bioelectronics课程的后半部分介绍了System Neuroscience的基本原理和模型、Neuroinformatics课程上介绍了Theoretical Neuroscience中的经典计算模型和神经网络——都是学术界热门的前沿研究领域，按教授的话说，“Neuroscience is a much less known field, many mysteries to uncover”。不得不说，我被“神经科学”这门学科深深地吸引了，相比电路——神经科学似乎才是真正令我激动、引起我探索欲望的研究方向。</p>
+<p style="text-indent: 2em;">我该不该选择神经科学？</p>
+<p style="text-indent: 2em;">如果我坚持学习电路本行，下学期我的课程选择应该是VLSI 2, System-on-chip和Machine Learning。如果我选择神经科学领域，下学期的课程应该是Neural System, Translational Neuralmodelling, Neuromorphic Engineering 2.</p>
+<p style="text-indent: 2em;">选择神经科学无疑是风险更大的方案。一方面，从最基本的就业市场来说，依然前景不明；另一方面，神经科学对我来说也是跨度更大的领域，对于希望继续攻读PhD学位的我来说，会让我接下来的申请更加困难……</p>
+<p style="text-indent: 2em;">但是，如果未来真的要成为一名教授，那么现在选择的方向有可能是会做一辈子的事业，兴趣难道不应该更重要吗？</p>
+<p style="text-indent: 2em;">所幸，我还有继续斟酌的时间——毕竟下学期开学才会再一次选课。</p>
+<p style="text-indent: 2em;">最近，在课本“Corporate Finance”里面看到了开篇那张有趣的图。对我来说，经过本科毕设和这学期的电路学习，我已经比较有自信找到一份不错的电路工作了。这个时候套用期权模型，似乎我可以选用“No-Lose” strategy。这时候，我是不是应该选择风险最大的投资来获得更多可能的收益呢？</p>
+]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/859/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
 		<title>苏村宅记 &#8211; 初到苏黎世</title>
 		<link>https://dayday.plus/archives/740</link>
 		<comments>https://dayday.plus/archives/740#comments</comments>
@@ -39,7 +77,7 @@
 		<category><![CDATA[苏村杂记]]></category>
 
 		<guid isPermaLink="false">https://dayday.plus/?p=740</guid>
-		<description><![CDATA[淅淅沥沥的雨中，我们的飞机降落在了苏黎世国际机场。那一天是2019年9月8日，我的苏黎世留学生活正式开始了。 苏黎世机场不算大，加上飞机抵达时刚刚过8点，因此不到小时就拿完行李，过完了海关。给手机换上了在国内买的流量卡，和接机的学姐取得联系 [&#8230;]]]></description>
+		<description><![CDATA[淅淅沥沥的雨中，我们的飞机降落在了苏黎世国际机场。那一天是2019年9月8日，我的苏黎世留学生活正式开始了。 苏黎世机场不算大，加上飞机抵达时刚刚过8点，因此不到小时就拿完行李，过完了海关。给手机换上了在国内买的流量卡，和接机的学姐取得联系。在她的指导下一起办了公交卡，便急匆匆拿着行李赶向住处。 雨中的苏黎世天色阴沉，但我依然被宿舍窗外的环境吸引了。低矮红顶的房屋，葱绿的树木，远处可见的山峦，好像 [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p style="text-indent: 2em;">淅淅沥沥的雨中，我们的飞机降落在了苏黎世国际机场。那一天是2019年9月8日，我的苏黎世留学生活正式开始了。</p>
 <figure style="width: 3264px" class="wp-caption aligncenter"><img src="https://i.loli.net/2019/09/29/elSoZ8Y6fUsBGJa.jpg" alt="" width="3264" height="2448" /><figcaption class="wp-caption-text">雨中的苏黎世机场</figcaption></figure>
 <p style="text-indent: 2em;">苏黎世机场不算大，加上飞机抵达时刚刚过8点，因此不到小时就拿完行李，过完了海关。给手机换上了在国内买的流量卡，和接机的学姐取得联系。在她的指导下一起办了公交卡，便急匆匆拿着行李赶向住处。</p>
@@ -64,7 +102,7 @@
 <p style="text-indent: 2em;">从主火车站做小火车到主楼，慢慢爬坡、慢慢欣赏风景、慢慢靠近一座学术殿堂。很幸运，我能来到这里。看看表，快要5点了，我们一行人在主楼说了再见。这就是我在苏黎世的第一天，期待未来在这里度过的留学日子。</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://dayday.plus/archives/740/feed</wfw:commentRss>
-		<slash:comments>21</slash:comments>
+		<slash:comments>25</slash:comments>
 		</item>
 		<item>
 		<title>留加见闻之二 &#124; 实验室生活</title>
@@ -76,7 +114,7 @@
 		<category><![CDATA[麦吉尔]]></category>
 
 		<guid isPermaLink="false">https://dayday.plus/?p=182</guid>
-		<description><![CDATA[我参与的是本科生实习科研项目，所以生活的重点当然是作实验。 我的项目挂名在物理系，因此经常出入的就是物理楼了。物理楼又叫卢瑟福楼（Rutherford Building）,坐落在麦基的东北角，以物理学家卢瑟福的名字命名。卢瑟福1898至19 [&#8230;]]]></description>
+		<description><![CDATA[我参与的是本科生实习科研项目，所以生活的重点当然是作实验。 我的项目挂名在物理系，因此经常出入的就是物理楼了。物理楼又叫卢瑟福楼（Rutherford Building）,坐落在麦基的东北角，以物理学家卢瑟福的名字命名。卢瑟福1898至1907年在加拿大麦吉尔大学从事放射性研究，并因此获得了诺贝尔化学奖。物理楼对面是一个小型的学生食堂，里面有价格便宜的食品（国外也有和国内大学类似的补贴）。物理楼北 [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>我参与的是本科生实习科研项目，所以生活的重点当然是作实验。</p>
 <p>我的项目挂名在物理系，因此经常出入的就是物理楼了。物理楼又叫卢瑟福楼（Rutherford Building）,坐落在麦基的东北角，以物理学家卢瑟福的名字命名。卢瑟福1898至1907年在加拿大麦吉尔大学从事放射性研究，并因此获得了诺贝尔化学奖。物理楼对面是一个小型的学生食堂，里面有价格便宜的食品（国外也有和国内大学类似的补贴）。物理楼北边是临时的学生注册办公室，我的校园卡也是在那里办理的。</p>
 <p><span id="more-182"></span></p>
@@ -105,7 +143,7 @@
 		<category><![CDATA[加拿大]]></category>
 
 		<guid isPermaLink="false">https://dayday.plus/?p=150</guid>
-		<description><![CDATA[三年前，我来交通大学报到。除去办理住宿，领军训服之外，最早做的一件事情就是办理了一张属于自己的校园卡。这张校园卡伴随了我大学三年，并将陪我到顺利毕业。有了这张校园卡，就可以畅通无阻的进出图书馆，宿舍楼，实验室；就可以用来在学生超市购物，作为 [&#8230;]]]></description>
+		<description><![CDATA[三年前，我来交通大学报到。除去办理住宿，领军训服之外，最早做的一件事情就是办理了一张属于自己的校园卡。这张校园卡伴随了我大学三年，并将陪我到顺利毕业。有了这张校园卡，就可以畅通无阻的进出图书馆，宿舍楼，实验室；就可以用来在学生超市购物，作为身份验证等等。 在麦基，校园卡当然也极为重要。但比校园卡更加重要的，可能就是学校的邮件系统了。在领到校园卡之前，Registation Office就首先给我分 [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><span style="font-weight: 400;">三年前，我来交通大学报到。除去办理住宿，领军训服之外，最早做的一件事情就是办理了一张属于自己的校园卡。这张校园卡伴随了我大学三年，并将陪我到顺利毕业。有了这张校园卡，就可以畅通无阻的进出图书馆，宿舍楼，实验室；就可以用来在学生超市购物，作为身份验证等等。</span></p>
 <p><span style="font-weight: 400;">在麦基，校园卡当然也极为重要。但比校园卡更加重要的，可能就是学校的邮件系统了。在领到校园卡之前，Registation Office就首先给我分配了一个用自己名字命名的麦基邮箱。与交大存在感极弱的邮箱相比，麦基邮箱起到了校园生活中极其重要的作用。三个月来，我收到了很多来自麦基的“官方邮件”，他们真实的反映了麦基的校园生活。</span></p>
 <p><span id="more-150"></span></p>

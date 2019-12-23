@@ -12,11 +12,11 @@
 	<atom:link href="https://dayday.plus/archives/author/icecrystals/feed" rel="self" type="application/rss+xml" />
 	<link>https://dayday.plus</link>
 	<description>KAAHO&#039;S BLOG / DAYDAY.PLUS / 微博@夏和帆</description>
-	<lastBuildDate>Tue, 10 Dec 2019 22:22:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Dec 2019 19:10:55 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.12</generator>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
 
 <image>
 	<url>http://dayday.plus/wp-content/uploads/2018/09/hp-150x150.jpg</url>
@@ -26,15 +26,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>使用HTTrack和Github进行网站“硬核备份”</title>
+		<link>https://dayday.plus/archives/893</link>
+		<comments>https://dayday.plus/archives/893#comments</comments>
+		<pubDate>Sun, 15 Dec 2019 15:35:05 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[网站]]></category>
+		<category><![CDATA[备份]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=893</guid>
+		<description><![CDATA[网站备份有多种方式，常见的如使用WordPress插件备份[1]或者在主机中自行打包数据库备份[2]等。但有没有一种能够快速、又能保持原貌的网站备份方式呢？答案是肯定的。最近我发现了一种“硬核”的备份方式：配合使用网站下载工具HTTrack和Github，可以将网站完整的下载至本地硬盘或者上传到安全的网络空间上。 首先，这是我的网站原始地址：原网页 ，这是我的网站备份地址：备份地址 。可见这种网站 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-indent: 2em;">网站备份有多种方式，常见的如使用WordPress插件备份[1]或者在主机中自行打包数据库备份[2]等。但有没有一种能够快速、又能保持原貌的网站备份方式呢？答案是肯定的。最近我发现了一种“硬核”的备份方式：配合使用网站下载工具HTTrack和Github，可以将网站完整的下载至本地硬盘或者上传到安全的网络空间上。</p>
+<p style="text-indent: 2em;">首先，这是我的网站原始地址：<strong><a href="https://dayday.plus/">原网页</a></strong> ，这是我的网站备份地址：<strong><a href="https://world-fantasy.github.io/dayday.plus/index.html">备份地址</a></strong> 。可见这种网站备份方式完整保留了网站的外观、评论、插件、外部链接等。</p>
+<p style="text-indent: 2em;">1  <strong>下载并安装HTTrack</strong> (<a href="https://www.httrack.com/">下载地址</a>)</p>
+<p><img class="aligncenter size-medium" src="https://i.loli.net/2019/12/15/OnHGy1uUlWZCKQ9.png" width="1044" height="561" /></p>
+<p style="text-indent: 2em;">2<strong> 新建工程，填写网站链接，下载网站。</strong>下载完毕后即可以在本地浏览自己的网站。</p>
+<p><img class="aligncenter size-medium" src="https://i.loli.net/2019/12/15/u42mKSf9BRpChtk.png" width="1012" height="643" /></p>
+<p><img class="aligncenter size-medium" src="https://i.loli.net/2019/12/15/C8Ve3DfnkMPvg6y.png" width="1008" height="642" /></p>
+<p style="text-indent: 2em;">3 <strong>上传至Github。</strong>使用Github Desktop软件将HTTrack下载的网站文件夹完整的上传至一个新的repository，并将这个repository命名为your-github-username.github.io的形式。</p>
+<p><img class="aligncenter size-medium" src="https://i.loli.net/2019/12/15/SpQxUG4bsdJwr7K.png" width="960" height="660" /></p>
+<p style="text-indent: 2em;">4 <strong>开启Github Pages。</strong>进入repository的设置页面，确认该仓库为&#8221;Public&#8221;，然后打开Github Pages，这样就可以在网站上浏览自己的备份网站了。</p>
+<p><img class="aligncenter size-medium" src="https://i.loli.net/2019/12/15/wQh6oG7rCcgmRqs.png" width="1031" height="461" /></p>
+<p><img class="aligncenter size-medium" src="https://i.loli.net/2019/12/15/l6pJsnbTGOf54aW.png" width="687" height="735" /></p>
+<p style="text-indent: 2em;">我为什么喜欢这种备份方式呢？最重要的原因是可以完整的保留网站的原貌。我的网站所有图片都是免费托放在外部的图床上的，主机也没有使用的可靠的大企业的主机（如阿里云、微软github等），这让我一直很没有安全感。通过这种方式将网站完整的保存在本地，并上传到Github上，即便未来某天图床或者主机商挂掉，我依然可以将自己的网站完美的展示出来。</p>
+<hr />
+<ul>
+<li>[1] <a href="https://www.wpbeginner.com/plugins/7-best-wordpress-backup-plugins-compared-pros-and-cons/">7 Best WordPress Backup Plugins Compared (Pros and Cons)</a> , 2019-12-15</li>
+<li>[2] <a href="https://www.seoimo.com/wordpress-backup/">WordPress备份: 整站备份+MySQL导出+还原/恢复+FTP迁移【自动脚本】</a> , 2019-12-15</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/893/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
 		<title>选择焦虑</title>
 		<link>https://dayday.plus/archives/859</link>
-		<comments>https://dayday.plus/archives/859#respond</comments>
+		<comments>https://dayday.plus/archives/859#comments</comments>
 		<pubDate>Tue, 10 Dec 2019 22:17:35 +0000</pubDate>
 		<dc:creator><![CDATA[夏和帆]]></dc:creator>
-				<category><![CDATA[阅读]]></category>
+				<category><![CDATA[留学]]></category>
+		<category><![CDATA[方向，留学]]></category>
 
 		<guid isPermaLink="false">https://dayday.plus/?p=859</guid>
-		<description><![CDATA[In most financial settings, risk is a bad thing; you have to be paid to bear it. Investors in risky (high-beta) stocks d [&#8230;]]]></description>
+		<description><![CDATA[In most financial settings, risk is a bad thing; you have to be paid to bear it. Investors in risky (high-beta) stocks demand higher expected rates of return. Highrisk capital investment projects have [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><img class="size-medium aligncenter" src="https://i.loli.net/2019/12/11/zC7da4wb9Wqe1RI.png" width="337" height="399" /></p>
 <blockquote><p>In most financial settings, risk is a bad thing; you have to be paid to bear it. Investors in risky (high-beta) stocks demand higher expected rates of return. Highrisk capital investment projects have correspondingly high costs of capital andhave to beat higher hurdle rates to achieve positive NPV.</p>
 <p>For options it’s the other way around. As we have just seen, options written on volatile assets are worth more than options written on safe assets. If you can understand and remember that one fact about options, you’ve come a long way.</p>
@@ -60,7 +94,7 @@
 <p style="text-indent: 2em;">最近，在课本“Corporate Finance”里面看到了开篇那张有趣的图。对我来说，经过本科毕设和这学期的电路学习，我已经比较有自信找到一份不错的电路工作了。这个时候套用期权模型，似乎我可以选用“No-Lose” strategy。这时候，我是不是应该选择风险最大的投资来获得更多可能的收益呢？</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://dayday.plus/archives/859/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<slash:comments>4</slash:comments>
 		</item>
 		<item>
 		<title>临摹板绘作品 – 女孩头像2</title>
@@ -74,7 +108,7 @@
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			<wfw:commentRss>https://dayday.plus/archives/797/feed</wfw:commentRss>
-		<slash:comments>9</slash:comments>
+		<slash:comments>10</slash:comments>
 		</item>
 		<item>
 		<title>苏村宅记 &#8211; 初到苏黎世</title>
@@ -90,7 +124,7 @@
 		<category><![CDATA[苏村杂记]]></category>
 
 		<guid isPermaLink="false">https://dayday.plus/?p=740</guid>
-		<description><![CDATA[淅淅沥沥的雨中，我们的飞机降落在了苏黎世国际机场。那一天是2019年9月8日，我的苏黎世留学生活正式开始了。 苏黎世机场不算大，加上飞机抵达时刚刚过8点，因此不到小时就拿完行李，过完了海关。给手机换上了在国内买的流量卡，和接机的学姐取得联系 [&#8230;]]]></description>
+		<description><![CDATA[淅淅沥沥的雨中，我们的飞机降落在了苏黎世国际机场。那一天是2019年9月8日，我的苏黎世留学生活正式开始了。 苏黎世机场不算大，加上飞机抵达时刚刚过8点，因此不到小时就拿完行李，过完了海关。给手机换上了在国内买的流量卡，和接机的学姐取得联系。在她的指导下一起办了公交卡，便急匆匆拿着行李赶向住处。 雨中的苏黎世天色阴沉，但我依然被宿舍窗外的环境吸引了。低矮红顶的房屋，葱绿的树木，远处可见的山峦，好像 [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p style="text-indent: 2em;">淅淅沥沥的雨中，我们的飞机降落在了苏黎世国际机场。那一天是2019年9月8日，我的苏黎世留学生活正式开始了。</p>
 <figure style="width: 3264px" class="wp-caption aligncenter"><img src="https://i.loli.net/2019/09/29/elSoZ8Y6fUsBGJa.jpg" alt="" width="3264" height="2448" /><figcaption class="wp-caption-text">雨中的苏黎世机场</figcaption></figure>
 <p style="text-indent: 2em;">苏黎世机场不算大，加上飞机抵达时刚刚过8点，因此不到小时就拿完行李，过完了海关。给手机换上了在国内买的流量卡，和接机的学姐取得联系。在她的指导下一起办了公交卡，便急匆匆拿着行李赶向住处。</p>
@@ -115,7 +149,7 @@
 <p style="text-indent: 2em;">从主火车站做小火车到主楼，慢慢爬坡、慢慢欣赏风景、慢慢靠近一座学术殿堂。很幸运，我能来到这里。看看表，快要5点了，我们一行人在主楼说了再见。这就是我在苏黎世的第一天，期待未来在这里度过的留学日子。</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://dayday.plus/archives/740/feed</wfw:commentRss>
-		<slash:comments>21</slash:comments>
+		<slash:comments>25</slash:comments>
 		</item>
 		<item>
 		<title>焦虑的你 — 被时代抛弃了，还是你抛弃了你自己？</title>
@@ -128,7 +162,7 @@
 		<category><![CDATA[社会]]></category>
 
 		<guid isPermaLink="false">https://dayday.plus/?p=642</guid>
-		<description><![CDATA[2018年初，一篇《摩拜创始人套现15亿，你的同龄人正在抛弃你》的网文刷屏朋友圈。文章内容大致讲述了摩拜单车创始人胡玮炜独居慧眼创业成功的故事，不可谓不精彩，令无数拼搏在“平凡”工作岗位上的人既羡慕又焦虑。 其实，不必说的那么远。我们看看更 [&#8230;]]]></description>
+		<description><![CDATA[2018年初，一篇《摩拜创始人套现15亿，你的同龄人正在抛弃你》的网文刷屏朋友圈。文章内容大致讲述了摩拜单车创始人胡玮炜独居慧眼创业成功的故事，不可谓不精彩，令无数拼搏在“平凡”工作岗位上的人既羡慕又焦虑。 其实，不必说的那么远。我们看看更加“亲近”一些的同龄人。B站UP主：“何同学”、“老番茄”、“敬汉卿”，都是20岁刚刚出头的大学生，现在已经坐拥粉丝百万。大学创业的熊永旺，从派送传单到电商，三 [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p style="text-indent: 2em;">2018年初，一篇《摩拜创始人套现15亿，你的同龄人正在抛弃你》的网文刷屏朋友圈。文章内容大致讲述了摩拜单车创始人胡玮炜独居慧眼创业成功的故事，不可谓不精彩，令无数拼搏在“平凡”工作岗位上的人既羡慕又焦虑。</p>
 <p style="text-indent: 2em;">其实，不必说的那么远。我们看看更加“亲近”一些的同龄人。B站UP主：“何同学”、“老番茄”、“敬汉卿”，都是20岁刚刚出头的大学生，现在已经坐拥粉丝百万。大学创业的熊永旺，从派送传单到电商，三年赚了3000万；甚至看看那些被官媒认定为“港独”的学生头目，也才刚刚20岁出头……有那么一刻，我们会发出了一声感叹：“为什么他们风光无限，而我却平平凡凡？”。</p>
 <p style="text-indent: 2em;">焦虑，似乎从我们毕业的那一天起就愈发不可收拾地加重起来，但真的是这样吗？</p>
@@ -155,7 +189,7 @@
 <p style="text-indent: 2em;">
 ]]></content:encoded>
 			<wfw:commentRss>https://dayday.plus/archives/642/feed</wfw:commentRss>
-		<slash:comments>9</slash:comments>
+		<slash:comments>11</slash:comments>
 		</item>
 		<item>
 		<title>临摹板绘作品 &#8211; 女孩头像</title>
@@ -169,7 +203,7 @@
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			<wfw:commentRss>https://dayday.plus/archives/610/feed</wfw:commentRss>
-		<slash:comments>3</slash:comments>
+		<slash:comments>6</slash:comments>
 		</item>
 		<item>
 		<title>大二的小事</title>
@@ -180,7 +214,7 @@
 				<category><![CDATA[阅读]]></category>
 
 		<guid isPermaLink="false">https://dayday.plus/?p=530</guid>
-		<description><![CDATA[大二某天。 也许大多数同学还在温暖的宿舍睡着懒觉，我却摸着黑早早起来，匆忙地洗漱、吃早餐，然后顶着早冬的寒风奔向东一楼。在路上，我的心里不断念叨着“以后要更仔细一些、要更仔细一些……” 我要赶去的这节课，全班只有我一个人需要上。 几天前的《 [&#8230;]]]></description>
+		<description><![CDATA[大二某天。 也许大多数同学还在温暖的宿舍睡着懒觉，我却摸着黑早早起来，匆忙地洗漱、吃早餐，然后顶着早冬的寒风奔向东一楼。在路上，我的心里不断念叨着“以后要更仔细一些、要更仔细一些……” 我要赶去的这节课，全班只有我一个人需要上。 几天前的《电路实验》课上，我漏记了一个关键数据，导致我没有办法在课后完成实验报告——我不得不赶在另一个班的上课时间去，重新完成实验。 如果只是因为自己粗心，我不可能在两年 [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p style="text-indent: 2em;">大二某天。</p>
 <p style="text-indent: 2em;">也许大多数同学还在温暖的宿舍睡着懒觉，我却摸着黑早早起来，匆忙地洗漱、吃早餐，然后顶着早冬的寒风奔向东一楼。在路上，我的心里不断念叨着“以后要更仔细一些、要更仔细一些……”<br />
 <span id="more-530"></span></p>
@@ -199,7 +233,7 @@
 <p style="text-indent: 2em;">西安交通大学</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://dayday.plus/archives/530/feed</wfw:commentRss>
-		<slash:comments>10</slash:comments>
+		<slash:comments>12</slash:comments>
 		</item>
 		<item>
 		<title>夏天的消失</title>
@@ -210,7 +244,7 @@
 				<category><![CDATA[阅读]]></category>
 
 		<guid isPermaLink="false">https://dayday.plus/?p=520</guid>
-		<description><![CDATA[交大东南门边的一个转角处，藏着一家小巧精致的饮品店。这里，曾经是我和夏天常常约会的地方。 再次来到这里，我点了一杯最廉价的红茶，悠闲的在藤椅上坐下。这里的装饰没有太大变化——柏木色的露天凉棚，红木色的镂空地板，透明玻璃做成的围栏——依旧是铺 [&#8230;]]]></description>
+		<description><![CDATA[交大东南门边的一个转角处，藏着一家小巧精致的饮品店。这里，曾经是我和夏天常常约会的地方。 再次来到这里，我点了一杯最廉价的红茶，悠闲的在藤椅上坐下。这里的装饰没有太大变化——柏木色的露天凉棚，红木色的镂空地板，透明玻璃做成的围栏——依旧是铺面而来的清新海岛格调。向左手边看去，墙上多了些可爱的彩色手绘海报。在这个环境里，一种真实感油然而生，好像我们才刚刚见过面。 我喜欢来这里，夏天也喜欢来。大二那年 [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p style="text-indent: 2em;">交大东南门边的一个转角处，藏着一家小巧精致的饮品店。这里，曾经是我和夏天常常约会的地方。</p>
 <p style="text-indent: 2em;">再次来到这里，我点了一杯最廉价的红茶，悠闲的在藤椅上坐下。这里的装饰没有太大变化——柏木色的露天凉棚，红木色的镂空地板，透明玻璃做成的围栏——依旧是铺面而来的清新海岛格调。向左手边看去，墙上多了些可爱的彩色手绘海报。在这个环境里，一种真实感油然而生，好像我们才刚刚见过面。</p>
 <p style="text-indent: 2em;">我喜欢来这里，夏天也喜欢来。大二那年六月，上完游泳课的我精疲力竭，只想在这家饮品店休息休息。那时的西安早已酷暑难耐。但就在这时，一阵微风吹过，仿佛带着柳叶的香气般沁人心脾。我转头望去，夏天坐在那里。她不是那么引人注目，但又那么令人印象深刻；我好像在哪里见过她，但又是如此的陌生。</p>
@@ -231,7 +265,7 @@
 <p style="text-indent: 2em;">西安交大</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://dayday.plus/archives/520/feed</wfw:commentRss>
-		<slash:comments>6</slash:comments>
+		<slash:comments>7</slash:comments>
 		</item>
 		<item>
 		<title>走，去欧洲！</title>
@@ -242,7 +276,7 @@
 				<category><![CDATA[阅读]]></category>
 
 		<guid isPermaLink="false">https://dayday.plus/?p=494</guid>
-		<description><![CDATA[还记得我之前种的那一颗牛油果吗？很不幸，它并没有活过西安漫长的冬天。 尽管它在寒潮中努力的伸出了芽，尽管它坚持到了我放寒假的那一天。 因为需要浇水，我只能把它从宿舍带回家。我小心翼翼地把它用纸巾包好，放在行李中。可是，在熙熙攘攘的地铁里，它 [&#8230;]]]></description>
+		<description><![CDATA[还记得我之前种的那一颗牛油果吗？很不幸，它并没有活过西安漫长的冬天。 尽管它在寒潮中努力的伸出了芽，尽管它坚持到了我放寒假的那一天。 因为需要浇水，我只能把它从宿舍带回家。我小心翼翼地把它用纸巾包好，放在行李中。可是，在熙熙攘攘的地铁里，它还是夭折了。 其实，我根本不敢想象牛油果会真的长成一株树。但当我某天看到它长出了芽，我曾经有过一丝幻想。 似乎，牛油果的夭折就是注定。就像我的申请季，最终没有奇 [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>还记得我之前种的那一颗牛油果吗？很不幸，它并没有活过西安漫长的冬天。</p>
 <p>尽管它在寒潮中努力的伸出了芽，尽管它坚持到了我放寒假的那一天。</p>
 <p>因为需要浇水，我只能把它从宿舍带回家。我小心翼翼地把它用纸巾包好，放在行李中。可是，在熙熙攘攘的地铁里，它还是夭折了。</p>
@@ -274,7 +308,7 @@
 		<category><![CDATA[人际关系]]></category>
 
 		<guid isPermaLink="false">https://dayday.plus/?p=435</guid>
-		<description><![CDATA[“非暴力沟通”强调人与人之间的沟通要充满爱和理解。它指导着我们转变谈话和聆听的方式。但是在现实中，人们常常难以进行愉悦和高效的交流，甚至因此陷入抱怨和冲突。那么如何有效的和他人进行交流，尤其是表达出自己的需要呢？《非暴力沟通》这本书给出了一 [&#8230;]]]></description>
+		<description><![CDATA[“非暴力沟通”强调人与人之间的沟通要充满爱和理解。它指导着我们转变谈话和聆听的方式。但是在现实中，人们常常难以进行愉悦和高效的交流，甚至因此陷入抱怨和冲突。那么如何有效的和他人进行交流，尤其是表达出自己的需要呢？《非暴力沟通》这本书给出了一种有效的方式。 作者马歇尔·卢森认为交流中的抱怨和冲突由于“爱被蒙蔽”造成的，具体的诱因主要有以下几点： 1 道德评判。我们的语言中往往反映着我们的价值观和需要 [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>“非暴力沟通”强调人与人之间的沟通要充满爱和理解。它指导着我们转变谈话和聆听的方式。但是在现实中，人们常常难以进行愉悦和高效的交流，甚至因此陷入抱怨和冲突。那么如何有效的和他人进行交流，尤其是表达出自己的需要呢？《非暴力沟通》这本书给出了一种有效的方式。</p>
 <p><span id="more-435"></span></p>
 <p>作者马歇尔·卢森认为交流中的抱怨和冲突由于“爱被蒙蔽”造成的，具体的诱因主要有以下几点：</p>
@@ -306,37 +340,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>https://dayday.plus/archives/435/feed</wfw:commentRss>
 		<slash:comments>4</slash:comments>
-		</item>
-		<item>
-		<title>黎明前的黑夜，咬咬牙就能过去。</title>
-		<link>https://dayday.plus/archives/430</link>
-		<comments>https://dayday.plus/archives/430#comments</comments>
-		<pubDate>Mon, 07 Jan 2019 15:53:41 +0000</pubDate>
-		<dc:creator><![CDATA[夏和帆]]></dc:creator>
-				<category><![CDATA[生活]]></category>
-		<category><![CDATA[心情]]></category>
-		<category><![CDATA[申请]]></category>
-		<category><![CDATA[留学]]></category>
-
-		<guid isPermaLink="false">https://dayday.plus/?p=430</guid>
-		<description><![CDATA[之前看学长学姐们写的留学日志，他们都说等offer的时候是最令人抓狂的时候。 “日思夜想、恨不得每分钟都盯一盯邮箱、好像随时都能听见新邮件的提示音&#8230;&#8230;” 我现在算理解这种感情了。 回顾2018，尽管充满忙碌和疲惫，但 [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>之前看学长学姐们写的留学日志，他们都说等offer的时候是最令人抓狂的时候。</p>
-<p>“日思夜想、恨不得每分钟都盯一盯邮箱、好像随时都能听见新邮件的提示音&#8230;&#8230;”</p>
-<p>我现在算理解这种感情了。</p>
-<p><span id="more-430"></span></p>
-<p>回顾2018，尽管充满忙碌和疲惫，但每一步都算得上稳健踏实。下定决心留学后：寒假准备英语、学期里刷绩点、暑假搞实习、开学来忙申请。在一个个明确的目标的驱动下，我充满干劲。</p>
-<p>反倒现在，提交完网申，就摊在了家，什么都不相干——不想搞毕设、不想看书、甚至连游戏也不想玩。培养一两门爱好吧，但是不断的告诉自己：你还申了几个Ph.D.呢，赶紧去看论文套磁。坐在书桌前，发现论文看不懂了，便会情不自禁的开始走神。</p>
-<p>像是航船驶入迷雾，我的申请好像也停滞了。懒惰的天性更是让我贪于享乐，时光白白地流逝&#8230;&#8230;</p>
-<p>是时候做出改变了，不能在最后一步功亏一篑！</p>
-<p>黎明前的黑夜，马上就要过去了。咬咬牙，再努力一把。无论如何，是录取还是拒绝最早在二月底都会见分晓。现在能做的，就只有抓紧最后的机会，套套瓷看有没有教授愿意收留我了！</p>
-<p>那么，从明天开始，振作起来吧！</p>
-<p>&nbsp;</p>
-<p>PS. 感谢最近给我留言、关注我的小伙伴！你们的博客我也有不时地浏览。我现在已经收到一个offer了，但只是一个保底的offer，并不是我最想去的。大部分申请结果会在二月下旬和三月份出结果，祝自己好运。</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-]]></content:encoded>
-			<wfw:commentRss>https://dayday.plus/archives/430/feed</wfw:commentRss>
-		<slash:comments>10</slash:comments>
 		</item>
 	</channel>
 </rss>

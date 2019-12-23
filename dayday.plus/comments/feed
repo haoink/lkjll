@@ -10,110 +10,108 @@
 	<atom:link href="https://dayday.plus/comments/feed" rel="self" type="application/rss+xml" />
 	<link>https://dayday.plus</link>
 	<description>KAAHO&#039;S BLOG / DAYDAY.PLUS / 微博@夏和帆</description>
-	<lastBuildDate>Tue, 10 Dec 2019 21:04:55 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Dec 2019 05:51:54 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.12</generator>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
+	<item>
+		<title>Moe_Nya对《留言板》的评论</title>
+		<link>https://dayday.plus/archives-557#comment-326</link>
+		<dc:creator><![CDATA[Moe_Nya]]></dc:creator>
+		<pubDate>Sun, 22 Dec 2019 05:51:54 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?page_id=94#comment-326</guid>
+		<description><![CDATA[博主博主 你的安全证书好像失效了嗷~]]></description>
+		<content:encoded><![CDATA[<p>博主博主 你的安全证书好像失效了嗷~</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>辣椒の酱对《临摹板绘作品 &#8211; 女孩头像》的评论</title>
+		<link>https://dayday.plus/archives/610#comment-325</link>
+		<dc:creator><![CDATA[辣椒の酱]]></dc:creator>
+		<pubDate>Sat, 21 Dec 2019 02:33:24 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=610#comment-325</guid>
+		<description><![CDATA[神似杨幂，画的不错<img src="https://s.w.org/images/core/emoji/11/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" />]]></description>
+		<content:encoded><![CDATA[<p>神似杨幂，画的不错👍</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>夏和帆对《临摹板绘作品 &#8211; 女孩头像》的评论</title>
+		<link>https://dayday.plus/archives/610#comment-322</link>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 21:55:48 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=610#comment-322</guid>
+		<description><![CDATA[谢谢夸奖~~]]></description>
+		<content:encoded><![CDATA[<p>谢谢夸奖~~</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>夏和帆对《使用HTTrack和Github进行网站“硬核备份”》的评论</title>
+		<link>https://dayday.plus/archives/893#comment-321</link>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 21:55:36 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=893#comment-321</guid>
+		<description><![CDATA[是的，我基本半年备份一次]]></description>
+		<content:encoded><![CDATA[<p>是的，我基本半年备份一次</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>夏和帆对《焦虑的你 — 被时代抛弃了，还是你抛弃了你自己？》的评论</title>
+		<link>https://dayday.plus/archives/642#comment-320</link>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 21:55:20 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=642#comment-320</guid>
+		<description><![CDATA[哈哈，这倒不会，我97年的，应该比你小很多hhh]]></description>
+		<content:encoded><![CDATA[<p>哈哈，这倒不会，我97年的，应该比你小很多hhh</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>响石潭对《临摹板绘作品 &#8211; 女孩头像》的评论</title>
+		<link>https://dayday.plus/archives/610#comment-319</link>
+		<dc:creator><![CDATA[响石潭]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 13:05:32 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=610#comment-319</guid>
+		<description><![CDATA[好看，牛]]></description>
+		<content:encoded><![CDATA[<p>好看，牛</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>响石潭对《焦虑的你 — 被时代抛弃了，还是你抛弃了你自己？》的评论</title>
+		<link>https://dayday.plus/archives/642#comment-318</link>
+		<dc:creator><![CDATA[响石潭]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 13:04:26 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=642#comment-318</guid>
+		<description><![CDATA[看到你的介绍，突然发现你小时候在一中池汤捞鱼的年代，或许我们在一中同框。我是99-02年时候读的高中，哈哈哈。]]></description>
+		<content:encoded><![CDATA[<p>看到你的介绍，突然发现你小时候在一中池汤捞鱼的年代，或许我们在一中同框。我是99-02年时候读的高中，哈哈哈。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>响石潭对《使用HTTrack和Github进行网站“硬核备份”》的评论</title>
+		<link>https://dayday.plus/archives/893#comment-317</link>
+		<dc:creator><![CDATA[响石潭]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 13:01:40 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=893#comment-317</guid>
+		<description><![CDATA[时刻备份~~~硬核好方法]]></description>
+		<content:encoded><![CDATA[<p>时刻备份~~~硬核好方法</p>
+]]></content:encoded>
+	</item>
 	<item>
 		<title>夏和帆对《苏村宅记 &#8211; 初到苏黎世》的评论</title>
-		<link>https://dayday.plus/archives/740#comment-302</link>
+		<link>https://dayday.plus/archives/740#comment-316</link>
 		<dc:creator><![CDATA[夏和帆]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2019 21:04:55 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=740#comment-302</guid>
-		<description><![CDATA[欢迎来访~~~希望有机会我能去四川玩一趟~]]></description>
-		<content:encoded><![CDATA[<p>欢迎来访~~~希望有机会我能去四川玩一趟~</p>
+		<pubDate>Sun, 15 Dec 2019 23:34:41 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=740#comment-316</guid>
+		<description><![CDATA[恩，谢谢。就是物价太贵了。。。]]></description>
+		<content:encoded><![CDATA[<p>恩，谢谢。就是物价太贵了。。。</p>
 ]]></content:encoded>
 	</item>
 	<item>
-		<title>夏和帆对《临摹板绘作品 – 女孩头像2》的评论</title>
-		<link>https://dayday.plus/archives/797#comment-301</link>
+		<title>夏和帆对《大二的小事》的评论</title>
+		<link>https://dayday.plus/archives/530#comment-315</link>
 		<dc:creator><![CDATA[夏和帆]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2019 21:02:15 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=797#comment-301</guid>
-		<description><![CDATA[我完完全全萌新啊hhh。话说你的域名真的酷炫，竟然是中文域名666]]></description>
-		<content:encoded><![CDATA[<p>我完完全全萌新啊hhh。话说你的域名真的酷炫，竟然是中文域名666</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>夏和帆对《苏村宅记 &#8211; 初到苏黎世》的评论</title>
-		<link>https://dayday.plus/archives/740#comment-300</link>
-		<dc:creator><![CDATA[夏和帆]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2019 21:01:19 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=740#comment-300</guid>
-		<description><![CDATA[感谢来访，我会继续坚持的！~~~]]></description>
-		<content:encoded><![CDATA[<p>感谢来访，我会继续坚持的！~~~</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>夏和帆对《临摹板绘作品 – 女孩头像2》的评论</title>
-		<link>https://dayday.plus/archives/797#comment-299</link>
-		<dc:creator><![CDATA[夏和帆]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2019 21:00:57 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=797#comment-299</guid>
-		<description><![CDATA[感谢来访。我用的是Wacom的板子，ctl672。]]></description>
-		<content:encoded><![CDATA[<p>感谢来访。我用的是Wacom的板子，ctl672。</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>夏和帆对《临摹板绘作品 – 女孩头像2》的评论</title>
-		<link>https://dayday.plus/archives/797#comment-298</link>
-		<dc:creator><![CDATA[夏和帆]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2019 20:59:50 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=797#comment-298</guid>
-		<description><![CDATA[我这个是临摹的，严格来说不算会画hhh]]></description>
-		<content:encoded><![CDATA[<p>我这个是临摹的，严格来说不算会画hhh</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>夏和帆对《苏村宅记 &#8211; 初到苏黎世》的评论</title>
-		<link>https://dayday.plus/archives/740#comment-297</link>
-		<dc:creator><![CDATA[夏和帆]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2019 20:59:15 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=740#comment-297</guid>
-		<description><![CDATA[谢谢来访啊哈哈哈]]></description>
-		<content:encoded><![CDATA[<p>谢谢来访啊哈哈哈</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>夏和帆对《临摹板绘作品 – 女孩头像2》的评论</title>
-		<link>https://dayday.plus/archives/797#comment-296</link>
-		<dc:creator><![CDATA[夏和帆]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2019 20:56:13 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=797#comment-296</guid>
-		<description><![CDATA[哈哈，谢谢夸奖~ 画画真的不是一件容易的事啊，一定要有定力才行啊。这不，最近又因为太忙不得不把这个爱好搁置了┭┮﹏┭┮]]></description>
-		<content:encoded><![CDATA[<p>哈哈，谢谢夸奖~ 画画真的不是一件容易的事啊，一定要有定力才行啊。这不，最近又因为太忙不得不把这个爱好搁置了┭┮﹏┭┮</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>咕咕三原对《临摹板绘作品 – 女孩头像2》的评论</title>
-		<link>https://dayday.plus/archives/797#comment-295</link>
-		<dc:creator><![CDATA[咕咕三原]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2019 11:43:14 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=797#comment-295</guid>
-		<description><![CDATA[画的挺不错的！！（感觉大触有点手抖233）]]></description>
-		<content:encoded><![CDATA[<p>画的挺不错的！！（感觉大触有点手抖233）</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>熊猫小A对《临摹板绘作品 – 女孩头像2》的评论</title>
-		<link>https://dayday.plus/archives/797#comment-294</link>
-		<dc:creator><![CDATA[熊猫小A]]></dc:creator>
-		<pubDate>Sun, 08 Dec 2019 16:45:33 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=797#comment-294</guid>
-		<description><![CDATA[画得真好！
-话说因为买了一台 iPad，我也想学学画画。]]></description>
-		<content:encoded><![CDATA[<p>画得真好！<br />
-话说因为买了一台 iPad，我也想学学画画。</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>一起微笑对《苏村宅记 &#8211; 初到苏黎世》的评论</title>
-		<link>https://dayday.plus/archives/740#comment-293</link>
-		<dc:creator><![CDATA[一起微笑]]></dc:creator>
-		<pubDate>Thu, 05 Dec 2019 09:08:04 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=740#comment-293</guid>
-		<description><![CDATA[和我们四川的小镇一样漂亮]]></description>
-		<content:encoded><![CDATA[<p>和我们四川的小镇一样漂亮</p>
+		<pubDate>Sun, 15 Dec 2019 23:34:24 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=530#comment-315</guid>
+		<description><![CDATA[学长谬赞了，只不过是延续了咱们交大人严谨刻苦的传统而已hhh]]></description>
+		<content:encoded><![CDATA[<p>学长谬赞了，只不过是延续了咱们交大人严谨刻苦的传统而已hhh</p>
 ]]></content:encoded>
 	</item>
 </channel>

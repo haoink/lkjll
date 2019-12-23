@@ -10,10 +10,30 @@
 	<atom:link href="https://dayday.plus/archives/530/feed" rel="self" type="application/rss+xml" />
 	<link>https://dayday.plus/archives/530</link>
 	<description>KAAHO&#039;S BLOG / DAYDAY.PLUS / 微博@夏和帆</description>
-	<lastBuildDate>Tue, 10 Dec 2019 21:04:55 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Dec 2019 05:51:54 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.12</generator>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
+	<item>
+		<title>作者：夏和帆</title>
+		<link>https://dayday.plus/archives/530#comment-315</link>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2019 23:34:24 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=530#comment-315</guid>
+		<description><![CDATA[学长谬赞了，只不过是延续了咱们交大人严谨刻苦的传统而已hhh]]></description>
+		<content:encoded><![CDATA[<p>学长谬赞了，只不过是延续了咱们交大人严谨刻苦的传统而已hhh</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Yan</title>
+		<link>https://dayday.plus/archives/530#comment-312</link>
+		<dc:creator><![CDATA[Yan]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2019 14:40:27 +0000</pubDate>
+		<guid isPermaLink="false">https://dayday.plus/?p=530#comment-312</guid>
+		<description><![CDATA[学弟很厉害。加油！]]></description>
+		<content:encoded><![CDATA[<p>学弟很厉害。加油！</p>
+]]></content:encoded>
+	</item>
 	<item>
 		<title>作者：格子老师</title>
 		<link>https://dayday.plus/archives/530#comment-237</link>
@@ -92,26 +112,6 @@
 		<guid isPermaLink="false">https://dayday.plus/?p=530#comment-212</guid>
 		<description><![CDATA[谢谢关心~我当时选这个域名其实就是求个性啦，而且有几个来来往往的博友就很满足啦，度娘抓不抓倒是无所谓~]]></description>
 		<content:encoded><![CDATA[<p>谢谢关心~我当时选这个域名其实就是求个性啦，而且有几个来来往往的博友就很满足啦，度娘抓不抓倒是无所谓~</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>作者：dayu</title>
-		<link>https://dayday.plus/archives/530#comment-211</link>
-		<dc:creator><![CDATA[dayu]]></dc:creator>
-		<pubDate>Sun, 12 May 2019 10:52:21 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=530#comment-211</guid>
-		<description><![CDATA[我发现了应该是百度搜索引擎对plus的域名后缀 不友好]]></description>
-		<content:encoded><![CDATA[<p>我发现了应该是百度搜索引擎对plus的域名后缀 不友好</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>作者：dayu</title>
-		<link>https://dayday.plus/archives/530#comment-210</link>
-		<dc:creator><![CDATA[dayu]]></dc:creator>
-		<pubDate>Sun, 12 May 2019 10:49:40 +0000</pubDate>
-		<guid isPermaLink="false">https://dayday.plus/?p=530#comment-210</guid>
-		<description><![CDATA[唉，度娘的都不抓取你的网站，是不是被你robots屏蔽了]]></description>
-		<content:encoded><![CDATA[<p>唉，度娘的都不抓取你的网站，是不是被你robots屏蔽了</p>
 ]]></content:encoded>
 	</item>
 </channel>

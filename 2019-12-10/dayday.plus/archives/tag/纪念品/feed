@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>纪念品 &#8211; 夏和帆的博客</title>
+	<atom:link href="https://dayday.plus/archives/tag/%e7%ba%aa%e5%bf%b5%e5%93%81/feed" rel="self" type="application/rss+xml" />
+	<link>https://dayday.plus</link>
+	<description>KAAHO&#039;S BLOG / DAYDAY.PLUS / 微博@夏和帆</description>
+	<lastBuildDate>Tue, 10 Dec 2019 22:22:26 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.12</generator>
+
+<image>
+	<url>http://dayday.plus/wp-content/uploads/2018/09/hp-150x150.jpg</url>
+	<title>纪念品 &#8211; 夏和帆的博客</title>
+	<link>https://dayday.plus</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>在蒙特利尔买纪念品</title>
+		<link>https://dayday.plus/archives/217</link>
+		<comments>https://dayday.plus/archives/217#comments</comments>
+		<pubDate>Thu, 27 Sep 2018 00:41:16 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[旅行]]></category>
+		<category><![CDATA[加拿大]]></category>
+		<category><![CDATA[纪念品]]></category>
+		<category><![CDATA[蒙特利尔]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=217</guid>
+		<description><![CDATA[今天在蒙特利尔买纪念品，录了一段视频。 设备是iPhone6Plus+耳机，所以有很多杂音请见谅。 视频源地址（高清）：夏和帆的B站空间]]></description>
+				<content:encoded><![CDATA[<p>今天在蒙特利尔买纪念品，录了一段视频。<br />
+设备是iPhone6Plus+耳机，所以有很多杂音请见谅。</p>
+<p>视频源地址（高清）：<a href="https://www.bilibili.com/video/av32553087/?p=1">夏和帆的B站空间</a></p>
+<p><iframe src="//player.bilibili.com/player.html?aid=32553087&amp;cid=56960205&amp;page=1" width="100%" height="500" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/217/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

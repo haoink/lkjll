@@ -12,11 +12,11 @@
 	<atom:link href="https://dayday.plus/archives/category/%e7%bb%98%e7%94%bb/feed" rel="self" type="application/rss+xml" />
 	<link>https://dayday.plus</link>
 	<description>KAAHO&#039;S BLOG / DAYDAY.PLUS / 微博@夏和帆</description>
-	<lastBuildDate>Tue, 10 Dec 2019 22:22:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Dec 2019 19:10:55 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.12</generator>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
 
 <image>
 	<url>http://dayday.plus/wp-content/uploads/2018/09/hp-150x150.jpg</url>
@@ -37,7 +37,7 @@
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			<wfw:commentRss>https://dayday.plus/archives/797/feed</wfw:commentRss>
-		<slash:comments>9</slash:comments>
+		<slash:comments>10</slash:comments>
 		</item>
 		<item>
 		<title>临摹板绘作品 &#8211; 女孩头像</title>
@@ -51,12 +51,11 @@
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			<wfw:commentRss>https://dayday.plus/archives/610/feed</wfw:commentRss>
-		<slash:comments>3</slash:comments>
+		<slash:comments>6</slash:comments>
 		</item>
 		<item>
 		<title>水彩画作品 &#8211; 黄昏湖岸</title>
 		<link>https://dayday.plus/archives/614</link>
-		<comments>https://dayday.plus/archives/614#respond</comments>
 		<pubDate>Tue, 18 Dec 2018 05:02:14 +0000</pubDate>
 		<dc:creator><![CDATA[夏和帆]]></dc:creator>
 				<category><![CDATA[绘画]]></category>
@@ -64,13 +63,10 @@
 		<guid isPermaLink="false">https://dayday.plus/?p=614</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
-			<wfw:commentRss>https://dayday.plus/archives/614/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>水彩画作品 &#8211; 圣诞小鹿</title>
 		<link>https://dayday.plus/archives/621</link>
-		<comments>https://dayday.plus/archives/621#respond</comments>
 		<pubDate>Sat, 15 Dec 2018 05:08:20 +0000</pubDate>
 		<dc:creator><![CDATA[夏和帆]]></dc:creator>
 				<category><![CDATA[绘画]]></category>
@@ -78,9 +74,7 @@
 		<guid isPermaLink="false">https://dayday.plus/?p=621</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
-			<wfw:commentRss>https://dayday.plus/archives/621/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>水彩画作品 &#8211; 古风小妹</title>
 		<link>https://dayday.plus/archives/625</link>

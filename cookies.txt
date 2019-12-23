@@ -1,4 +1,5 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-.loli.net	TRUE	/	FALSE	1999999999	__cfduid	d8f1154a992f31fdb27fd3fa01320bc7e1576016802
+.loli.net	TRUE	/	FALSE	1999999999	__cfduid	dd78fa0b7f268fe64b87d6e8240b3cc3e1577113232
+i.loli.net	TRUE	/	FALSE	1999999999	SameSite	Lax
 

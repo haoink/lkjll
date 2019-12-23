@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>绘画 &#8211; 夏和帆的博客</title>
+	<atom:link href="https://dayday.plus/archives/category/%e7%bb%98%e7%94%bb/feed" rel="self" type="application/rss+xml" />
+	<link>https://dayday.plus</link>
+	<description>KAAHO&#039;S BLOG / DAYDAY.PLUS / 微博@夏和帆</description>
+	<lastBuildDate>Tue, 10 Dec 2019 22:22:26 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.12</generator>
+
+<image>
+	<url>http://dayday.plus/wp-content/uploads/2018/09/hp-150x150.jpg</url>
+	<title>绘画 &#8211; 夏和帆的博客</title>
+	<link>https://dayday.plus</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>临摹板绘作品 – 女孩头像2</title>
+		<link>https://dayday.plus/archives/797</link>
+		<comments>https://dayday.plus/archives/797#comments</comments>
+		<pubDate>Wed, 06 Nov 2019 00:21:05 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[绘画]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=797</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/797/feed</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>临摹板绘作品 &#8211; 女孩头像</title>
+		<link>https://dayday.plus/archives/610</link>
+		<comments>https://dayday.plus/archives/610#comments</comments>
+		<pubDate>Fri, 30 Aug 2019 04:55:51 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[绘画]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=610</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/610/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>水彩画作品 &#8211; 黄昏湖岸</title>
+		<link>https://dayday.plus/archives/614</link>
+		<comments>https://dayday.plus/archives/614#respond</comments>
+		<pubDate>Tue, 18 Dec 2018 05:02:14 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[绘画]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=614</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/614/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>水彩画作品 &#8211; 圣诞小鹿</title>
+		<link>https://dayday.plus/archives/621</link>
+		<comments>https://dayday.plus/archives/621#respond</comments>
+		<pubDate>Sat, 15 Dec 2018 05:08:20 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[绘画]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=621</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>https://dayday.plus/archives/621/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>水彩画作品 &#8211; 古风小妹</title>
+		<link>https://dayday.plus/archives/625</link>
+		<pubDate>Thu, 01 Nov 2018 05:10:36 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[绘画]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=625</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>手绘作品 &#8211; 水手服女孩</title>
+		<link>https://dayday.plus/archives/629</link>
+		<pubDate>Tue, 17 Jul 2018 05:12:23 +0000</pubDate>
+		<dc:creator><![CDATA[夏和帆]]></dc:creator>
+				<category><![CDATA[绘画]]></category>
+
+		<guid isPermaLink="false">https://dayday.plus/?p=629</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+	</channel>
+</rss>
